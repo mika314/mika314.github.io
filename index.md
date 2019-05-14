@@ -3,7 +3,7 @@ layout: home
 title: Blog
 permalink: /
 ---
-# Hi! This is Mika.
+# Hi!
 
 ![Mika](/imgs/mika.png)
 
@@ -16,6 +16,4 @@ it might take about 12 hours. Hopefully this will work.
 The goal of all this thing be happy and have fun. Also I'll try to
 have fun for people around me. Will see.
 
-That is it for now.
-
---Mika
+That's it for now.
