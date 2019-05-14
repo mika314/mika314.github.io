@@ -1,3 +1,6 @@
+---
+layout: home
+---
 # Hi! This is Mika.
 
 This is my personal website I am setting up right now. I have get the
