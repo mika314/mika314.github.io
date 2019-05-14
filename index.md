@@ -7,8 +7,8 @@ permalink: /
 
 ![Mika](/imgs/mika.png)
 
-This is my personal website I am setting up right now. I have get the
-domain name and decided to host it on github, will see how it turned
+This is my personal website I am setting it up right now. I have gotten the
+awesome domain name and decided to host it on github, will see how it'll turned
 out. I am quite happy with the domain name, it is mika.global. I think
 that's awesome. IP addresses are not propagated yet :( The hoster said
 it might take about 12 hours. Hopefully this will work. 
