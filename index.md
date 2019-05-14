@@ -5,6 +5,8 @@ permalink: /
 ---
 # Hi! This is Mika.
 
+![Mika](/imgs/mika.png)
+
 This is my personal website I am setting up right now. I have get the
 domain name and decided to host it on github, will see how it turned
 out. I am quite happy with the domain name, it is mika.global. I think
