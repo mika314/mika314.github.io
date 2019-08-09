@@ -7,6 +7,7 @@ permalink: /minecraft/
 I have minecraft server.
 
 |IP|minecraft.mika.global|
+|---|---|
 |Version|1.14.4|
 |Max number of players|20|
 |Modes|Vanilla|
