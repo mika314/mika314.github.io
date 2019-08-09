@@ -14,3 +14,5 @@ I have minecraft server.
 |PVP|False|
 |Griefing|False|
 |KeepInventory|True|
+
+https://discord.gg/xjYA3uw
