@@ -15,4 +15,4 @@ I have minecraft server.
 |Griefing|False|
 |KeepInventory|True|
 
-<https://discord.gg/xjYA3uw>
+Join Discord server: <https://discord.gg/xjYA3uw>
