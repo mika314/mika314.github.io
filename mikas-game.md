@@ -48,6 +48,10 @@ Later on you may craft trading machine for safe trading.
 
 ### Teleport
 
+Builder can put teleports in the world and make in public, unlisted or private. Teleport will have descriptions and thumbnail.
+
+Recommending system will use this data for recommendations.
+
 ### Teleport stone
 
 ### Circuitry
@@ -59,8 +63,6 @@ Machine needs energy balls to run. Looks like experience balls from Minecraft
 Energy balls spawn around player and have expiration. Player can buy energy ball this ball do not expire.
 
 Vars can be connected via red-stone or via radio.
-
-
 
 ### Blueprint
 
@@ -79,6 +81,12 @@ Vars can be connected via red-stone or via radio.
 
 
 ### Recommending system
+
+### Open questions
+
+- How yo build healthy community without toxicity?
+- Voxel or polygon based or mixed?
+
 
 
 
