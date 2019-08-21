@@ -12,13 +12,13 @@ This page is work in progress.
 
 Mika's Game is a mass multiplayer online game with player generated content. Players can craft terrain, buildings, items, avatars, NPC, program quests and create mini games.
 
-The game universe is a series of parallel infinite worlds. Player can spawn as many as he/she wants. New world may be cloned from current one if player has clone permissions or it can me procedurally generated from the random or specifies seed. Player becomes the owner of the world. World has permission flags: visit, clone, build permit.
+The game universe is a series of parallel infinite worlds. Player can spawn as many as he/she wants. New world may be cloned from current one if player has clone permissions or it can me procedurally generated from the random or specifies seed. Player becomes the owner of the world. World has permission flags: permission to visit, permission to clone, build permit.
 
 Player has list of friends and friends can be categorized by groups.
 
 Visit, build permit can be for everyone, for friends, for some particular group or it can be given to some particular player. Permit can have expiration date.
 
-The world is a voxel world, like Minecraft.
+The world is a voxel world, like Minecraft (open question).
 
 Crafting can be done by using blueprints and crafting table.
 
@@ -41,6 +41,8 @@ Later on you may craft trading machine for safe trading.
 - Roblox
 - Dreams for PS4
 - YouTube
+- Apple Store
+- Steam
 
 ## Items
 
@@ -78,9 +80,21 @@ Vars can be connected via red-stone or via radio.
 
 ### Custom tools
 
+### World cloning
 
+All data saved in no-sql database. Reddis. Each server control some part of the universe, everything saved in memory and periodically get offloaded to database. To offload in memory data to database, sever process get forked and data getting saved to DB in parallel.
+
+Each chunk of Universe points to serving server or to nullptr.
+
+Parallel universes doing copy of write. So it is cheap to make a copy.
+
+On DB we have list of universes, each one has list of chunks. Universe also point to universe from which one one it was copied.
+
+Every time then player makes copy of universe new readonly copy getting created and old one and new ope start pointing to it.
 
 ### Recommending system
+
+Happy button. 😀
 
 ### Open questions
 
