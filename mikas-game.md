@@ -46,6 +46,8 @@ Later on you may craft trading machine for safe trading.
 
 ## Items
 
+Each item has a link from what world it was taken.
+
 ### Miniaturizer
 
 ### Teleport
@@ -92,9 +94,13 @@ On DB we have list of universes, each one has list of chunks. Universe also poin
 
 Every time then player makes copy of universe new readonly copy getting created and old one and new ope start pointing to it.
 
-### Recommending system
+### Recommendation system
 
 Happy button. 😀
+
+Leader board.
+Regional leader boards.
+
 
 ### Open questions
 
