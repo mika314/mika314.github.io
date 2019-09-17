@@ -4,8 +4,6 @@ title: Minecraft
 permalink: /minecraft/
 ---
 
-I have minecraft server.
-
 |IP|minecraft.mika.global|
 |---|---|
 |Version|1.14.4|
@@ -17,3 +15,5 @@ I have minecraft server.
 |KeepInventory|True|
 
 Join Discord server: <https://discord.gg/xjYA3uw>
+
+This is friends only server. Default game mode set to Spectator. You have to prove to op you are friend of someone and op will switch you to Survival.
