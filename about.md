@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hi! I like to have fun and play games. Haha!
+Hi! I do irrational things, it is in my name. Haha!
 
 Places you can find me on Internet:
 
