@@ -12,5 +12,4 @@ Places you can find me on Internet:
 |Discord|Mika#8182|
 |email|<mika@mika.global>|
 
-Join my Discord server: https://discord.gg/m6ubZeD
-
+Join my Discord server: <https://discord.gg/m6ubZeD>
