@@ -6,7 +6,7 @@ permalink: /minecraft/
 
 |IP|minecraft.mika.global|
 |---|---|
-|Version|1.14.4|
+|Version|1.16.1|
 |Max number of players|20|
 |Modes|Vanilla|
 |GameMode|Survival|
