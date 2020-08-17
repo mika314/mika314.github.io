@@ -5,6 +5,6 @@ permalink: /
 ---
 # Hi!
 
-![Mika](/imgs/mika.jpeg)
+<img src="/imgs/mika.jpeg" width="200">
 
 This is my personal website.
