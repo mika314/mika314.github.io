@@ -403,10 +403,10 @@ permalink: /bucket-list/
 1. - [ ] Write a book and publish it
 1. - [x] Do the Hollywood Walk of Fame
 1. - [x] Drive the Pacific Coast Highway
-1. - [x] Eat Beef Tongue
-1. - [x] Eat Blood Sausage
-1. - [x] Eat Caviar
-1. - [x] Eat Chicken Feet
+1. - [x] Eat beef tongue
+1. - [x] Eat blood sausage
+1. - [x] Eat caviar
+1. - [x] Eat chicken feet
 1. - [x] Invent something and patent it
 1. - [x] Live in California state for at least 3 months
 1. - [x] Live in Florida state for at least 3 months
@@ -416,12 +416,12 @@ permalink: /bucket-list/
 1. - [x] See the Mona Lisa at the Louvre
 1. - [x] Spend a week in New York
 1. - [x] Spend a week in Tokyo
-1. - [x] Stand Under a waterfall
+1. - [x] Stand under a waterfall
 1. - [x] Stay at the Beverly Hills hotel
-1. - [x] Step Foot in Africa
-1. - [x] Step Foot in Asia
-1. - [x] Step Foot in Europe
-1. - [x] Step Foot in North America
+1. - [x] Step foot in Africa
+1. - [x] Step foot in Asia
+1. - [x] Step foot in Europe
+1. - [x] Step foot in North America
 1. - [x] Swim in the ocean
 1. - [x] Visit Egypt
 1. - [x] Visit France
