@@ -32,6 +32,8 @@ permalink: /bucket-list/
 1. - [ ] Explore a Rain Forest
 1. - [ ] Explore the Van Gogh Museum
 1. - [ ] Finish a classic novel and publish it
+1. - [ ] Finish the game Don't notice me
+1. - [ ] Finish the game Rakuen
 1. - [ ] Float in the Dead Sea
 1. - [ ] Get PhD
 1. - [ ] Get a Tattoo
@@ -53,6 +55,7 @@ permalink: /bucket-list/
 1. - [ ] Learn how to play piano (play Rachmaninoff: Piano Concerto no.2 op.18)
 1. - [ ] Learn the sign language
 1. - [ ] Learn to juggle
+1. - [ ] Level up to the max level priest character in WoW
 1. - [ ] Live in Alabama state for at least 3 months
 1. - [ ] Live in Alaska state for at least 3 months
 1. - [ ] Live in Arizona state for at least 3 months
@@ -100,6 +103,13 @@ permalink: /bucket-list/
 1. - [ ] Live in West Virginia state for at least 3 months
 1. - [ ] Live in Wisconsin state for at least 3 months
 1. - [ ] Live in Wyoming state for at least 3 months
+1. - [ ] Log in Astellia 20 hours
+1. - [ ] Log in Conan Exiles 20 hours
+1. - [ ] Log in Skyrim VR 20 hours
+1. - [ ] Log in Skyrim VR 20 hours
+1. - [ ] Log in Stardew Valley 20 hours
+1. - [ ] Log in Subnautica 20 hours
+1. - [ ] Log in Subnautica 20 hours
 1. - [ ] Make a Minecraft like MMO game
 1. - [ ] Make a font out of my handwriting
 1. - [ ] Make mozzarella cheese
@@ -108,6 +118,7 @@ permalink: /bucket-list/
 1. - [ ] Own Tesla 3
 1. - [ ] Own Tesla X
 1. - [ ] Participate in a Japanese Tea Ceremony
+1. - [ ] Read the book Masters of Doom: How Two Guys Created an Empire and Transformed Pop Culture
 1. - [ ] Relax in a sensory deprivation tank
 1. - [ ] Ride on one of the largest roller coasters
 1. - [ ] Road trip across the entire United States (visit all states)
