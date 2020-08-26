@@ -181,12 +181,12 @@ permalink: /bucket-list/
 1. - [ ] Visit Christ the Redeemer in Rio de Janeiro, Brazil
 1. - [ ] Visit Colombia
 1. - [ ] Visit Comoros
-1. - [ ] Visit Congo (Congo-Brazzaville
+1. - [ ] Visit Congo (Congo-Brazzaville)
 1. - [ ] Visit Costa Rica
 1. - [ ] Visit Croatia
 1. - [ ] Visit Cuba
 1. - [ ] Visit Cyprus
-1. - [ ] Visit Czechia (Czech Republic
+1. - [ ] Visit Czechia (Czech Republic)
 1. - [ ] Visit Côte d'Ivoire
 1. - [ ] Visit Democratic Republic of the Congo
 1. - [ ] Visit Denmark
@@ -198,7 +198,7 @@ permalink: /bucket-list/
 1. - [ ] Visit Equatorial Guinea
 1. - [ ] Visit Eritrea
 1. - [ ] Visit Estonia
-1. - [ ] Visit Eswatini (fmr. "Swaziland
+1. - [ ] Visit Eswatini (fmr. "Swaziland)
 1. - [ ] Visit Ethiopia
 1. - [ ] Visit Fiji
 1. - [ ] Visit Finland
@@ -257,57 +257,57 @@ permalink: /bucket-list/
 1. - [ ] Visit Montenegro
 1. - [ ] Visit Mount Rushmore
 1. - [ ] Visit Mozambique
-1. - [ ] Visit Myanmar (formerly Burma
+1. - [ ] Visit Myanmar (formerly Burma)
 1. - [ ] Visit Namibia
 1. - [ ] Visit National Park Acadia
 1. - [ ] Visit National Park American Samoa Ofu Beach
 1. - [ ] Visit National Park Arches
 1. - [ ] Visit National Park Badlands
-1. - [ ] Visit National Park Big Bend dagger Big Bend National Park
+1. - [ ] Visit National Park Big Bend
 1. - [ ] Visit National Park Biscayne Biscayne NP
 1. - [ ] Visit National Park Black Canyon of the Gunnison Black canyon gunnison
 1. - [ ] Visit National Park Bryce Canyon Bryce Canyon Hoodoos
-1. - [ ] Visit National Park Canyonlands Canyonlands National Park…Needles area
-1. - [ ] Visit National Park Capitol Reef Cassidy Arch, Capitol Reef National
-1. - [ ] Visit National Park Carlsbad Caverns * Carlsbad Interior
+1. - [ ] Visit National Park Canyonlands Canyonlands
+1. - [ ] Visit National Park Capitol Reef
+1. - [ ] Visit National Park Carlsbad Caverns
 1. - [ ] Visit National Park Channel Islands dagger Channel Islands National
 1. - [ ] Visit National Park Congaree dagger Bald cypress and creek
 1. - [ ] Visit National Park Crater Lake Crater lake
-1. - [ ] Visit National Park Cuyahoga Valley Cuyahoga Valley National Park
-1. - [ ] Visit National Park Death Valley dagger Mesquite Sand Dunes in Death
-1. - [ ] Visit National Park Denali dagger Mount McKinley and Denali National Park Road
-1. - [ ] Visit National Park Dry Tortugas dagger Fort-Jefferson Dry
-1. - [ ] Visit National Park Everglades double-dagger Everglades National Park
+1. - [ ] Visit National Park Cuyahoga Valley
+1. - [ ] Visit National Park Death Valley
+1. - [ ] Visit National Park Denali
+1. - [ ] Visit National Park Dry Tortugas
+1. - [ ] Visit National Park Everglades
 1. - [ ] Visit National Park Gates of the Arctic
 1. - [ ] Visit National Park Gateway Arch St Louis night
-1. - [ ] Visit National Park Glacier Bay double-dagger
-1. - [ ] Visit National Park Glacier double-dagger St Mary Lake - Wild goose
-1. - [ ] Visit National Park Grand Teton dagger Teton Range from Glacier View Turnout
+1. - [ ] Visit National Park Glacier Bay
+1. - [ ] Visit National Park Glacier
+1. - [ ] Visit National Park Grand Teton
 1. - [ ] Visit National Park Great Basin Prometheus
 1. - [ ] Visit National Park Great Sand Dunes
-1. - [ ] Visit National Park Great Smoky Mountains double-dagger Fall at Oconaluftee
-1. - [ ] Visit National Park Guadalupe Mountains West face of Guadalupe Mountains at sunset
-1. - [ ] Visit National Park Haleakalā dagger Haleakala
-1. - [ ] Visit National Park Hawaiʻi Volcanoes double-dagger Puu Oo
-1. - [ ] Visit National Park Hot Springs Hots Springs National Park
-1. - [ ] Visit National Park Indiana Dunes 2010-11-26 3060x2040 portage indiana
-1. - [ ] Visit National Park Isle Royale dagger
-1. - [ ] Visit National Park Joshua Tree dagger Joshua Tree - Rock formation in Real Hidden Valley
+1. - [ ] Visit National Park Great Smoky Mountains
+1. - [ ] Visit National Park Guadalupe Mountains West
+1. - [ ] Visit National Park Haleakalā
+1. - [ ] Visit National Park Hawaiʻi Volcanoes
+1. - [ ] Visit National Park Hot Springs
+1. - [ ] Visit National Park Indiana Dunes
+1. - [ ] Visit National Park Isle Royale
+1. - [ ] Visit National Park Joshua Tree
 1. - [ ] Visit National Park Katmai Brown bears brooks
 1. - [ ] Visit National Park Kenai Fjords Exit Glacier
-1. - [ ] Visit National Park Kings Canyon dagger
+1. - [ ] Visit National Park Kings Canyon
 1. - [ ] Visit National Park Kobuk Valley Agie
 1. - [ ] Visit National Park Lake Clark Lake Clark National
 1. - [ ] Visit National Park Lassen Volcanic Lake Helen - Flickr - Joe
-1. - [ ] Visit National Park Mammoth Cave double-dagger Mammoth Cave National Park
-1. - [ ] Visit National Park Mesa Verde * Mesa Verde National Park Cliff Palace Right Part 2006 09
+1. - [ ] Visit National Park Mammoth Cave
+1. - [ ] Visit National Park Mesa Verde
 1. - [ ] Visit National Park Mount Rainier Mount Rainier from
 1. - [ ] Visit National Park North Cascades Cascade
-1. - [ ] Visit National Park Olympic double-dagger Acer macrophyllum in Hoh Rain
+1. - [ ] Visit National Park Olympic
 1. - [ ] Visit National Park Petrified Forest PAINTED DESERT
 1. - [ ] Visit National Park Pinnacles Pinnacles National
-1. - [ ] Visit National Park Redwood * Redwood National Park, fog in the
-1. - [ ] Visit National Park Rocky Mountain dagger Bierstadt Lake, Rocky Mountain National Park
+1. - [ ] Visit National Park Redwood
+1. - [ ] Visit National Park Rocky Mountain
 1. - [ ] Visit National Park Saguaro
 1. - [ ] Visit National Park Sequoia dagger Giant
 1. - [ ] Visit National Park Shenandoah Early Fall at Dark Hollow Falls
@@ -317,8 +317,8 @@ permalink: /bucket-list/
 1. - [ ] Visit National Park White Sands White Sands New Mexico
 1. - [ ] Visit National Park Wind Cave Wind Cave
 1. - [ ] Visit National Park Wrangell–St. Elias
-1. - [ ] Visit National Park Yellowstone double-dagger Grand Prismatic Spring and Midway Geyser Basin from
-1. - [ ] Visit National Park Yosemite * YosemitePark2
+1. - [ ] Visit National Park Yellowstone
+1. - [ ] Visit National Park Yosemite
 1. - [ ] Visit National Park Zion
 1. - [ ] Visit Nauru
 1. - [ ] Visit Nepal
@@ -431,7 +431,7 @@ permalink: /bucket-list/
 1. - [x] Visit Japan
 1. - [x] Visit London
 1. - [x] Visit Morocco
-1. - [x] Visit National Park Grand Canyon * USA 09847 Grand Canyon Luca Galuzzi
+1. - [x] Visit National Park Grand Canyon
 1. - [x] Visit Paris
 1. - [x] Visit Russia
 1. - [x] Visit Spain
