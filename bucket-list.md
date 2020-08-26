@@ -105,10 +105,9 @@ permalink: /bucket-list/
 1. [ ] Live in Wyoming state for at least 3 months
 1. [ ] Log in Astellia 20 hours
 1. [ ] Log in Conan Exiles 20 hours
-1. [ ] Log in Skyrim VR 20 hours
+1. [ ] Log in Eve Online 20 hours
 1. [ ] Log in Skyrim VR 20 hours
 1. [ ] Log in Stardew Valley 20 hours
-1. [ ] Log in Subnautica 20 hours
 1. [ ] Log in Subnautica 20 hours
 1. [ ] Make a Minecraft like MMO game
 1. [ ] Make a font out of my handwriting
@@ -280,8 +279,8 @@ permalink: /bucket-list/
 1. [ ] Visit National Park Everglades
 1. [ ] Visit National Park Gates of the Arctic
 1. [ ] Visit National Park Gateway Arch St Louis night
-1. [ ] Visit National Park Glacier Bay
 1. [ ] Visit National Park Glacier
+1. [ ] Visit National Park Glacier Bay
 1. [ ] Visit National Park Grand Teton
 1. [ ] Visit National Park Great Basin Prometheus
 1. [ ] Visit National Park Great Sand Dunes
