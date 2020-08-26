@@ -109,6 +109,7 @@ permalink: /bucket-list/
 1. [ ] Log in Skyrim VR 20 hours
 1. [ ] Log in Stardew Valley 20 hours
 1. [ ] Log in Subnautica 20 hours
+1. [ ] Log in VRChat 2000 hours
 1. [ ] Make a Minecraft like MMO game
 1. [ ] Make a font out of my handwriting
 1. [ ] Make mozzarella cheese
@@ -394,7 +395,6 @@ permalink: /bucket-list/
 1. [ ] Visit Zimbabwe
 1. [ ] Visit a Castle
 1. [ ] Visit a Ghost Town
-1. [ ] Visit a Temple
 1. [ ] Visit the White House
 1. [ ] Walk across abbey road in London (famous Beatles album cover)
 1. [ ] Walk the Great Wall of China
@@ -439,5 +439,6 @@ permalink: /bucket-list/
 1. [x] Visit Ukraine
 1. [x] Visit United Kingdom
 1. [x] Visit Uzbekistan
+1. [x] Visit a Temple
 1. [x] Whale watching
 1. [x] Witness a solar eclipse
