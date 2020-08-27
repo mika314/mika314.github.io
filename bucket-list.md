@@ -112,6 +112,7 @@ permalink: /bucket-list/
 1. [ ] Log in VRChat 2000 hours
 1. [ ] Make a Minecraft like MMO game
 1. [ ] Make a font out of my handwriting
+1. [ ] Make a potato-gun
 1. [ ] Make mozzarella cheese
 1. [ ] Meet a world leader
 1. [ ] Name a star
