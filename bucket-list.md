@@ -35,6 +35,7 @@ permalink: /bucket-list/
 1. [ ] Finish the game Don't notice me
 1. [ ] Finish the game Rakuen
 1. [ ] Float in the Dead Sea
+1. [ ] Fluently speak and read Chinese
 1. [ ] Get PhD
 1. [ ] Get a Tattoo
 1. [ ] Get on top of Effel Tower
