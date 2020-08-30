@@ -35,3 +35,7 @@ playtest.
 
 Be gentle with the game, it is not stable yet, server may crash,
 client may crash...
+
+Note: if you are getting vcruntime140_1.dll error, just download and
+install x64 Visual C++ Redistributable Package from
+[Microsoft](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads)
