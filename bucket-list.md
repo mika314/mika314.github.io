@@ -400,6 +400,20 @@ permalink: /bucket-list/
 1. [ ] Visit the White House
 1. [ ] Walk across abbey road in London (famous Beatles album cover)
 1. [ ] Walk the Great Wall of China
+1. [ ] Watch An Education (2009)
+1. [ ] Watch Barfi! (2012)
+1. [ ] Watch Big Fish (2003)
+1. [ ] Watch Blue Valentine (2010)
+1. [ ] Watch Eternal Sunshine of the Spotless Mind (2004)
+1. [ ] Watch Garden State (2004)
+1. [ ] Watch Good Will Hunting (1997)
+1. [ ] Watch In Bruges (2008)
+1. [ ] Watch Lars and the Real Girl (2007)
+1. [ ] Watch Secretary (2002)
+1. [ ] Watch Silver Linings Playbook (2012)
+1. [ ] Watch Spirited Away
+1. [ ] Watch Submarine (2010)
+1. [ ] Watch Zindagi Na Milegi Dobara (2011)
 1. [ ] Work on a pottery wheel
 1. [ ] Write a book and publish it
 1. [x] Do the Hollywood Walk of Fame
