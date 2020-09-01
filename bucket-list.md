@@ -12,6 +12,7 @@ permalink: /bucket-list/
 1. [ ] Be a street performer
 1. [ ] Be on the New York Times bestsellers list
 1. [ ] Climb to the top of a lighthouse
+1. [ ] Collect 1,000,000 LUX BUX on Lana_Lux Twitch channel
 1. [ ] Destroy stuff in a break room
 1. [ ] Do the Edge Walk at CN Tower
 1. [ ] Drive Route 66 from beginning to the end
