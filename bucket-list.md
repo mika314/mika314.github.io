@@ -6,6 +6,11 @@ permalink: /bucket-list/
 
 # My Bucket List
 
+Legend:
+Priorities: P1 - high priority, P4 - low priority
+
+Complexity: XL - extremely hard, L - very hard, M - hard, S - easy, XS - very easy
+
 1. [ ] p4 M Backpack through Europe
 1. [ ] p1 XL Be a self-made billionaire
 1. [ ] p1 L Be a self-made millionaire
