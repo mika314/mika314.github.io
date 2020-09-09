@@ -3,3 +3,5 @@ _site
 .jekyll-metadata
 /Gemfile.lock
 *~
+.coddle/
+/prioritize_bucket_list/prioritize_bucket_list
