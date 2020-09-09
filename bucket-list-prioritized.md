@@ -6,6 +6,7 @@ permalink: /bucket-list-prioritized/
 
 # My Prioritized Bucket List
 
+1. [ ] p3 XS Watch Spirited Away (2001)
 1. [ ] p3 S Collect 1,000,000 LUX BUX on Lana_Lux Twitch channel
 1. [ ] p3 S Destroy stuff in a break room
 1. [ ] p3 S Do the Edge Walk at CN Tower
@@ -54,7 +55,6 @@ permalink: /bucket-list-prioritized/
 1. [ ] p4 XS Watch Lars and the Real Girl (2007)
 1. [ ] p4 XS Watch Secretary (2002)
 1. [ ] p4 XS Watch Silver Linings Playbook (2012)
-1. [ ] p4 XS Watch Spirited Away
 1. [ ] p4 XS Watch Submarine (2010)
 1. [ ] p4 XS Watch Zindagi Na Milegi Dobara (2011)
 1. [ ] p4 S Be a street performer
