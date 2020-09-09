@@ -9,7 +9,7 @@ int main()
 {
   std::ifstream f("bucket-list.md");
   std::string line;
-  std::multimap<int, std::string> items;
+  std::multimap<float, std::string> items;
   while (std::getline(f, line))
   {
     if (line.find("1. [ ] ") != 0)
@@ -33,7 +33,7 @@ int main()
       std::cerr << "unknown complexity: '" << c << "' in line " << line << std::endl;
       continue;
     }
-    items.insert(std::make_pair(pIter->second + 2 * cIter->second, line));
+    items.insert(std::make_pair(pIter->second + 1 * cIter->second, line));
   }
   std::ofstream of("bucket-list-prioritized.md");
   of << R"(---

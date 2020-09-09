@@ -6,10 +6,12 @@ permalink: /bucket-list-prioritized/
 
 # My Prioritized Bucket List
 
+1. [ ] p1 M Make a Minecraft like MMO game
 1. [ ] p3 XS Watch Spirited Away (2001)
 1. [ ] p3 S Collect 1,000,000 LUX BUX on Lana_Lux Twitch channel
 1. [ ] p3 S Destroy stuff in a break room
 1. [ ] p3 S Do the Edge Walk at CN Tower
+1. [ ] p2 M Earn 7 figures per year
 1. [ ] p3 S Eat Buffalo Wings in Buffalo
 1. [ ] p3 S Eat KFC
 1. [ ] p3 S Eat Raw Oysters
@@ -22,8 +24,11 @@ permalink: /bucket-list-prioritized/
 1. [ ] p3 S Get on top of Effel Tower
 1. [ ] p3 S Go on a week-long cruise
 1. [ ] p3 S Have fun at Walt Disney World
+1. [ ] p2 M Lead a major project through successful implementation
 1. [ ] p3 S Log in Stardew Valley 20 hours
 1. [ ] p3 S Log in VRChat 2000 hours
+1. [ ] p2 M Own Tesla 3
+1. [ ] p2 M Own Tesla X
 1. [ ] p3 S Sail a boat
 1. [ ] p3 S See a coral reef again
 1. [ ] p3 S Sleep in a capsule hotel
@@ -38,12 +43,16 @@ permalink: /bucket-list-prioritized/
 1. [ ] p3 S Visit National Park Yellowstone
 1. [ ] p3 S Visit National Park Yosemite
 1. [ ] p3 S Visit South Korea
-1. [ ] p1 M Make a Minecraft like MMO game
+1. [ ] p3 M Drive Route 66 from beginning to the end
+1. [ ] p3 M Give a Ted Talk
+1. [ ] p3 M Have more than 1000 viewers in average on Twitch for past 30
+1. [ ] p3 M Live in Hawaii state for at least 3 months
+1. [ ] p3 M Live in New York state for at least 3 months
+1. [ ] p3 M Road trip across the entire United States (visit all states)
+1. [ ] p3 M Step Foot in Antarctica
+1. [ ] p3 M Take a job where you have to travel
+1. [ ] p1 L Be a self-made millionaire
 1. [ ] p4 XS Dye my hair blue color
-1. [ ] p2 M Earn 7 figures per year
-1. [ ] p2 M Lead a major project through successful implementation
-1. [ ] p2 M Own Tesla 3
-1. [ ] p2 M Own Tesla X
 1. [ ] p4 XS Watch An Education (2009)
 1. [ ] p4 XS Watch Barfi! (2012)
 1. [ ] p4 XS Watch Big Fish (2003)
@@ -59,7 +68,6 @@ permalink: /bucket-list-prioritized/
 1. [ ] p4 XS Watch Zindagi Na Milegi Dobara (2011)
 1. [ ] p4 S Be a street performer
 1. [ ] p4 S Climb to the top of a lighthouse
-1. [ ] p3 M Drive Route 66 from beginning to the end
 1. [ ] p4 S Eat Cactus
 1. [ ] p4 S Eat Crickets
 1. [ ] p4 S Eat Fugu
@@ -68,8 +76,6 @@ permalink: /bucket-list-prioritized/
 1. [ ] p4 S Finish the game Rakuen
 1. [ ] p4 S Float in the Dead Sea
 1. [ ] p4 S Get a Tattoo
-1. [ ] p3 M Give a Ted Talk
-1. [ ] p3 M Have more than 1000 viewers in average on Twitch for past 30
 1. [ ] p4 S Ride a helicopter
 1. [ ] p4 S Helicopter into the Grand Canyon
 1. [ ] p4 S Indoor Skydive
@@ -78,8 +84,6 @@ permalink: /bucket-list-prioritized/
 1. [ ] p4 S Learn how to pick a lock
 1. [ ] p4 S Learn to juggle
 1. [ ] p4 S Level up to the max level priest character in WoW
-1. [ ] p3 M Live in Hawaii state for at least 3 months
-1. [ ] p3 M Live in New York state for at least 3 months
 1. [ ] p4 S Log in Astellia 20 hours
 1. [ ] p4 S Log in Conan Exiles 20 hours
 1. [ ] p4 S Log in Eve Online 20 hours
@@ -92,17 +96,14 @@ permalink: /bucket-list-prioritized/
 1. [ ] p4 S Read the book Masters of Doom: How Two Guys Created an Empire and Transformed Pop Culture
 1. [ ] p4 S Relax in a sensory deprivation tank
 1. [ ] p4 S Ride on one of the largest roller coasters
-1. [ ] p3 M Road trip across the entire United States (visit all states)
 1. [ ] p4 S See Niagara Falls
 1. [ ] p4 S Sleep in a treehouse
 1. [ ] p4 S Sleep in an ice hotel
 1. [ ] p4 S Spend a week in London
 1. [ ] p4 S Spend a week in Paris
 1. [ ] p4 S Stay in a 5-Star Resort in a 1st world country (https://www.nationsonline.org/oneworld/first_world.htm)
-1. [ ] p3 M Step Foot in Antarctica
 1. [ ] p4 S Swim with Sea Turtles
 1. [ ] p4 S Take a hot air balloon ride
-1. [ ] p3 M Take a job where you have to travel
 1. [ ] p4 S Touch a pyramid
 1. [ ] p4 S Visit Afghanistan
 1. [ ] p4 S Visit Albania
@@ -413,6 +414,5 @@ permalink: /bucket-list-prioritized/
 1. [ ] p4 M Live in Wyoming state for at least 3 months
 1. [ ] p4 M Name a star
 1. [ ] p4 M Write a book and publish it
-1. [ ] p1 L Be a self-made millionaire
 1. [ ] p4 L Meet a world leader
 1. [ ] p1 XL Be a self-made billionaire
