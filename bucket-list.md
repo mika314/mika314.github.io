@@ -117,7 +117,7 @@ Complexity: XL - very hard, L - hard, M - medium, S - easy, XS - very easy
 1. [ ] p3 S Log in Stardew Valley 20 hours
 1. [ ] p4 S Log in Subnautica 20 hours
 1. [ ] p3 S Log in VRChat 2000 hours
-1. [ ] p1 M Make a Minecraft like MMO game
+1. [ ] p1 M Make a voxel MMO game
 1. [ ] p4 S Make a font out of my handwriting
 1. [ ] p4 S Make a potato-gun
 1. [ ] p4 S Make mozzarella cheese

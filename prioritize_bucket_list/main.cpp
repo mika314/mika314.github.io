@@ -33,7 +33,7 @@ int main()
       std::cerr << "unknown complexity: '" << c << "' in line " << line << std::endl;
       continue;
     }
-    items.insert(std::make_pair(pIter->second + 1 * cIter->second, line));
+    items.insert(std::make_pair(pIter->second * 1 * cIter->second, line));
   }
   std::ofstream of("bucket-list-prioritized.md");
   of << R"(---
