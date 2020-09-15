@@ -1,10 +1,347 @@
 ---
 layout: page
-title: Linux Things
-permalink: /linux-things/
+title: Notes
+permalink: /notes/
 ---
 
-# Linux Things
+
+### How to upload file using linux command tool ftp
+```
+$ ftp host
+Connected to host (10.139.88.123).
+220 (vsFTPd 3.0.2)
+Name (host:user): user
+331 Please specify the password.
+Password: password
+ftp> cd path
+ftp> put localfile remotepath
+```
+
+### How to make SSH tunnel
+
+```
+
+      local   ssh connection   remote1       remote2
+             o--------------->o
+              +------------->+
+              ^              v
+TCP port [L]o-+              +------------->o TCP port [R]
+
+$ ssh -L L:remote2:R remote1
+
+     local2   local1 ssh connection  remote
+                    o------------->o
+                     +------------+
+                     v            ^
+TCP port [L] o<------+            +<-o TCP port [R]
+$ ssh -R R:local2:L remote
+```
+
+### How to get absolute path
+```
+$ man realpath
+```
+
+```C++
+    char *relativePath = "relativePath/file.txt"
+    char *absolutePath = realpath(relativePath, NULL);
+    if (!absolutePath)
+    {
+      stc::cerr << "Cannot access " << relativePath << ": No such file or directory";
+      return -1;
+    }
+    // use it
+    free(absolutePath);
+```
+
+### How to make screenshot with MacOS X
+
+http://www.imore.com/how-take-screenshot-mac-os-x
+Command + Shift + 3 whole screen
+Command + Shift + 4 area
+
+### How to find current executable's path
+
+```C++
+#include <unistd.h>
+#ifdef __APPLE__
+#include <mach-o/dyld.h>
+#endif
+
+#ifndef __APPLE__
+std::string getExecutableName()
+{
+    char buf[MAXPATHLEN];
+    ssize_t len;
+    if ((len = readlink("/proc/self/exe", buf, sizeof(buf) - 1)) != -1)
+        buf[len] = '\0';
+    return buf;
+}
+#else
+std::string getExecutableName()
+{
+    char exe[MAXPATHLEN];
+    uint32_t bufSize = sizeof(exe);
+    _NSGetExecutablePath(exe, &bufSize);
+    char buf[MAXPATHLEN];
+    ssize_t len;
+    if ((len = readlink(exe, buf, sizeof(buf) - 1)) != -1)
+        buf[len] = '\0';
+    return buf;
+}
+#endif
+```
+
+
+
+### Remove duplicates from container without sorting the container
+
+```C++
+#include <algorithm>
+#include <vector>
+struct target_less
+{
+    template<class It>
+    bool operator()(It const &a, It const &b) const { return *a < *b; }
+};
+struct target_equal
+{
+    template<class It>
+    bool operator()(It const &a, It const &b) const { return *a == *b; }
+};
+template<class It> It uniquify(It begin, It const end)
+{
+    std::vector<It> v;
+    v.reserve(static_cast<size_t>(std::distance(begin, end)));
+    for (It i = begin; i != end; ++i)
+    { v.push_back(i); }
+    std::sort(v.begin(), v.end(), target_less());
+    v.erase(std::unique(v.begin(), v.end(), target_equal()), v.end());
+    std::sort(v.begin(), v.end());
+    size_t j = 0;
+    for (It i = begin; i != end && j != v.size(); ++i)
+    {
+        if (i == v[j])
+        {
+            using std::iter_swap; iter_swap(i, begin);
+            ++j;
+            ++begin;
+        }
+    }
+    return begin;
+}
+```
+
+### Remove duplicates from container
+
+```C++
+sort( vec.begin(), vec.end() );
+vec.erase( unique( vec.begin(), vec.end() ), vec.end() );
+```
+
+### Load file into string
+
+```C++
+std::ifstream t("file.txt");
+std::stringstream buffer;
+buffer << t.rdbuf();
+```
+
+
+
+### copy file
+
+```C++
+std::ifstream  src("from.ogv", std::ios::binary);
+std::ofstream  dst("to.ogv",   std::ios::binary);
+dst << src.rdbuf();
+```
+
+### string low case
+
+```C++
+#include <algorithm>
+#include <string> 
+
+std::string data = "Abc"; 
+std::transform(data.begin(), data.end(), data.begin(), ::tolower);
+```
+
+### list of files in a directory
+
+```C++
+DIR *dir;
+struct dirent *ent;
+if ((dir = opendir ("c:\\src\\")) != NULL) {
+  /* print all the files and directories within directory */
+  while ((ent = readdir (dir)) != NULL) {
+    printf ("%s\n", ent->d_name);
+  }
+  closedir (dir);
+} else {
+  /* could not open directory */
+  perror ("");
+  return EXIT_FAILURE;
+}
+```
+
+http://stackoverflow.com/questions/612097/how-can-i-get-a-list-of-files-in-a-directory-using-c-or-c
+
+### C++ Erase vector element by value rather than by position?
+
+```C++
+vec.erase(std::remove(vec.begin(), vec.end(), 8), vec.end());
+```
+
+### How to get my ip address in c Linux -…
+
+```C++
+getifaddrs(&addrs);
+tmp = addrs;
+
+while (tmp) 
+{
+    if (tmp->ifa_addr && tmp->ifa_addr->sa_family == AF_INET)
+    {
+        struct sockaddr_in *pAddr = (struct sockaddr_in *)tmp->ifa_addr;
+        printf("%s: %s\n", tmp->ifa_name, inet_ntoa(pAddr->sin_addr));
+    }
+
+    tmp = tmp->ifa_next;
+}
+
+freeifaddrs(addrs);
+```
+
+### How do I get the directory that a program is running from?
+
+```C++
+#include <stdio.h>  /* defines FILENAME_MAX */
+#ifdef WINDOWS
+    #include <direct.h>
+    #define GetCurrentDir _getcwd
+#else
+    #include <unistd.h>
+    #define GetCurrentDir getcwd
+ #endif
+
+ char cCurrentPath[FILENAME_MAX];
+
+ if (!GetCurrentDir(cCurrentPath, sizeof(cCurrentPath)))
+     {
+     return errno;
+     }
+
+cCurrentPath[sizeof(cCurrentPath) - 1] = '\0'; /* not really required */
+
+printf ("The current working directory is %s", cCurrentPath);
+```
+
+Windows:
+```C++
+int bytes = GetModuleFileName(NULL, pBuf, len);
+if(bytes == 0)
+	return -1;
+else
+	return bytes;
+```
+Linux:
+```
+char szTmp[32];
+sprintf(szTmp, "/proc/%d/exe", getpid());
+int bytes = MIN(readlink(szTmp, pBuf, len), len - 1);
+if(bytes >= 0)
+	pBuf[bytes] = '\0';
+return bytes;
+```
+
+
+
+### Converting YUV into BGR or RGB
+
+```C++
+for(int i = 0, j=0; i < 1280 * 720 * 3; i+=6, j+=4)
+{
+    m_RGB->imageData[i] = pData[j] + pData[j+3]*((1 - 0.299)/0.615);
+    m_RGB->imageData[i+1] = pData[j] - pData[j+1]*((0.114*(1-0.114))/(0.436*0.587)) - pData[j+3]*((0.299*(1 - 0.299))/(0.615*0.587));
+    m_RGB->imageData[i+2] = pData[j] + pData[j+1]*((1 - 0.114)/0.436);
+    m_RGB->imageData[i+3] = pData[j+2] + pData[j+3]*((1 - 0.299)/0.615);
+    m_RGB->imageData[i+4] = pData[j+2] - pData[j+1]*((0.114*(1-0.114))/(0.436*0.587)) - pData[j+3]*((0.299*(1 - 0.299))/(0.615*0.587));
+    m_RGB->imageData[i+5] = pData[j+2] + pData[j+1]*((1 - 0.114)/0.436);
+}
+```
+
+### Convert time_t to string with format YYYY-MM-DD HH:MM:SS
+
+```C++
+char buff[20];
+time_t now = time(NULL);
+strftime(buff, 20, "%Y-%m-%d %H:%M:%S", localtime(&now));
+```
+
+
+### How to convert a string variable containing time to time_t type in c++?
+
+```C++
+const char *time_details = "16:35:12";
+struct tm tm;
+strptime(time_details, "%H:%M:%S", &tm);
+time_t t = mktime(&tm);  // t is now your desired time_t
+```
+
+### Path to binary in C
+
+```C++
+#include <stdio.h>
+#include <unistd.h>
+
+int main()
+{
+  char buffer[BUFSIZ];
+  readlink("/proc/self/exe", buffer, BUFSIZ);
+  printf("%s\n", buffer);
+}
+```
+
+```C++
+WCHAR path[MAX_PATH];
+GetModuleFileName(NULL, path, ARRAYSIZE(path));
+```
+
+### Rotate screen
+```
+xrandr --output HDMI-0 --rotate left
+```
+### Set wacom pen on one screeen
+```bash
+xsetwacom set "Wacom Bamboo 16FG 4x5 Pen stylus" MapToOutput HEAD-0
+```
+
+### Run Minecraft
+```bash
+java -Xmx1024M -Xms512M -cp minecraft.jar net.minecraft.LauncherFrame
+```
+
+### Set keyboard repeat rate
+```
+xset r rate 210 120
+```
+### NATO phonetic alphabet
+A .......... 	ALPHA		N .......... 	NOVEMBER
+B .......... 	BRAVO 	  	O .......... 	OSCAR
+C .......... 	CHARLIE 	P .......... 	PAPA
+D .......... 	DELTA 		Q .......... 	QUEBEC
+E .......... 	ECHO 		R .......... 	ROMEO
+F .......... 	FOXTROT 	S .......... 	SIERRA
+G .......... 	GOLF 		T .......... 	TANGO
+H .......... 	HOTEL 		U .......... 	UNIFORM
+I .......... 	INDIA 		V .......... 	VICTOR
+J .......... 	JULIET 		W .......... 	WHISKY
+K .......... 	KILO 		X .......... 	X-RAY
+L .......... 	LIMA 		Y .......... 	YANKEE
+M .......... 	MIKE 		Z .......... 	ZULU
+
+
 
 ### Generate etags for emacs
 
