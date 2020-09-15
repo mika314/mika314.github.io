@@ -5,6 +5,103 @@ permalink: /notes/
 ---
 
 
+### Common Chord progressions
+
+```
+I – iV – V7
+I – V – vi – IV
+I – vi – IV – V
+I – V – vi – iii – IV – I – IV – V
+I – IV – V – I
+I – I – I – I – IV – IV – I – I – V – V – I – I
+I – IV – V – IV
+
+ii – IV – V
+V – IV – I
+vi – IV – I – V
+vi – V – IV – III
+vi – V – VI – V
+ii – I – V6 – bVII
+```
+
+### TIL
+
+```
+// clang-format on
+// clang-format off
+```
+
+### My dream job at 2007 (10 years ago)
+
+#### In office:
+
+- [x] salary $3 000 or more
+- [ ] big bright office
+- [ ] at winter warm and at summer cool
+- [x] clean restroom
+- [x] no cigarette smoke
+- [x] hot water in the sink
+- [x] mirror in the restroom
+- [ ] sofa
+- [x] tea
+- [x] trash-bin near by the desktop
+- [x] free classes
+- [ ] ability to pick your own specification for the computer
+- [x] licensed software
+- [ ] floating hours
+
+#### WFH
+
+- [x] salary $3,000 or more
+- [x] big bright office
+- [ ] at winter warm and at summer cool
+- [ ] clean restroom
+- [x] no cigarette smoke
+- [x] hot water in the sink
+- [x] mirror in the restroom
+- [x] sofa
+- [x] tea
+- [ ] trash-bin near by the desktop
+- [x] free classes
+- [x] ability to pick your own specification for the computer
+- [x] licensed software
+- [ ] floating hours
+
+### My current dream job
+- [ ] work on my own ideas
+- [ ] be able to drop the project at any time
+- [ ] be able to start any project at any time
+- [ ] travel (carry with me in the luggage my PC setup with 2 big
+      screens and VR setup), have high speed internet while I am traveling
+- [x] work from home
+- [x] big bright office
+- [ ] at winter warm and at summer cool
+- [ ] floating hours
+- [ ] no planning
+- [ ] make technical decisions
+- [ ] I want to have a team, and they will do exactly what I asked
+      them to do without any questions and complaining
+- [x] program in C++
+- [x] working on making games
+- [ ] be able to stream on Twitch my work
+
+### Play video using VDPAU decoder
+
+```
+mplayer -vo vdpau and -vc ffh264vdpau,ffmpeg12vdpau,ffwmv3vdpau,ffvc1vdpau -ao alsa file.mp4
+```
+
+
+
+### Ideal game engine
+
+- C++ (including scripting on C++)
+- Multiplatform (Linux, Mac, iOS, Android)
+- Licence (free and I can use the engine for publishing
+games on AppStore and Google Play)
+- Good tutorials
+
+
 ### How to upload file using linux command tool ftp
 ```
 $ ftp host
@@ -54,11 +151,13 @@ $ man realpath
     free(absolutePath);
 ```
 
-### How to make screenshot with MacOS X
+### How to make screenshot in MacOS X
 
-http://www.imore.com/how-take-screenshot-mac-os-x
+<http://www.imore.com/how-take-screenshot-mac-os-x>
+```
 Command + Shift + 3 whole screen
 Command + Shift + 4 area
+```
 
 ### How to find current executable's path
 
@@ -185,7 +284,7 @@ if ((dir = opendir ("c:\\src\\")) != NULL) {
 }
 ```
 
-http://stackoverflow.com/questions/612097/how-can-i-get-a-list-of-files-in-a-directory-using-c-or-c
+<http://stackoverflow.com/questions/612097/how-can-i-get-a-list-of-files-in-a-directory-using-c-or-c>
 
 ### C++ Erase vector element by value rather than by position?
 
@@ -327,6 +426,7 @@ java -Xmx1024M -Xms512M -cp minecraft.jar net.minecraft.LauncherFrame
 xset r rate 210 120
 ```
 ### NATO phonetic alphabet
+```
 A .......... 	ALPHA		N .......... 	NOVEMBER
 B .......... 	BRAVO 	  	O .......... 	OSCAR
 C .......... 	CHARLIE 	P .......... 	PAPA
@@ -340,7 +440,7 @@ J .......... 	JULIET 		W .......... 	WHISKY
 K .......... 	KILO 		X .......... 	X-RAY
 L .......... 	LIMA 		Y .......... 	YANKEE
 M .......... 	MIKE 		Z .......... 	ZULU
-
+```
 
 
 ### Generate etags for emacs
@@ -487,7 +587,7 @@ mplayer dvd://1 -dumpstream -dumpfile rippeddvd.vob
 ### Printing howto
 
 
-http://www.gentoo.org/doc/en/printing-howto.xml
+<http://www.gentoo.org/doc/en/printing-howto.xml>
 
 
 ### Add a existing user to existing group
