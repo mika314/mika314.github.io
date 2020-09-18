@@ -20,6 +20,7 @@ permalink: /bucket-list-prioritized/
 1. [ ] p3 S Eat at a Michelin 3-star Restaurant
 1. [ ] p3 S Eat truffle as is
 1. [ ] p3 S Eat truffle in a dish
+1. [ ] p3 S Eat wagyu steak
 1. [ ] p3 S Experience the Northern Lights
 1. [ ] p3 S Experience weightlessness
 1. [ ] p3 S Explore the Van Gogh Museum
