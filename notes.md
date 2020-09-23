@@ -4,6 +4,15 @@ title: Notes
 permalink: /notes/
 ---
 
+### Issues with HTC Vive
+
+- headphone jack lose sometimes and one ear stop work
+- HDMI fall off
+- the base station broke; it always showed blue light
+- headphones stopped working
+- audio left and right ears sometimes swapped
+- one out of 3 trackers refuses to turn on sometimes
+- hard to find the side button on HDMI, but very easy to press it by assident
 
 ### Common Chord progressions
 
