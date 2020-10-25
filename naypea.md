@@ -21,12 +21,12 @@ The server may be down, or protocol may be incompatible, join my
 to playtest.
 
 ## Instructions
-- Click on the link and download the file
-- Extract all files from the .zip file:
-  - right mouse click on the file
-  - click Extract All...
+- Click on the link above and download the file
+- Extract all files from the `naypea.zip` file:
+  - mouse right click on the file
+  - click `Extract All...`
 - Open `naypea` directory
-- Double click on naypea file with Unreal logo on it
+- Double click on `naypea.exe` file with Unreal logo on it
 
 Note: antivirus most likely will complain, ignore antivirus warnings.
 - Create account and login
@@ -38,8 +38,8 @@ the client may crash...
 
 - Multiplayer
 - Voice chat
-- Text chat (press Enter)
-- Block placement and removal (similar as in Minecraft)
+- Text chat (press `Enter`)
+- Blocks placement and removal (similar as in Minecraft)
 - Non-player character (sable) placement
 - Loading custom 3D models for sable (fbx tested, but other formats also supported but not tested)
 - JS scripting for sables
@@ -47,21 +47,22 @@ the client may crash...
 
 ## Controls
 
-- WASD: for FPS style movement
-- Q and E: move up and down
-- B: toggle between build mode and play mode
+- `WASD`: for FPS style movement
+- `Q` and `E`: move up and down
+- `B`: toggle between build mode and play mode
 - Mouse right click: (build mode) place block Minecraft style, click
   on sable opens sable UI
 - Mouse left click: (build mode) remove block/sable Minecraft style
 - Hold right mouse button: (build mode) allow to control sable
-- Enter: for the chat
-- V: toggle mute
-- Alt-F4: to close the game
-- Alt-Enter: to toggle full-screen and window mode
+- `Enter`: for the chat
+- `V`: toggle mute
+- `Alt-F4`: to close the game
+- `Alt-Enter`: to toggle full-screen and window mode
 
 ## Known Issues
 
 - Game sometimes crashes on a model load
+- Multiple clients freezing the server
 
 ## Quick Video Tour
 
