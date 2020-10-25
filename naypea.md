@@ -45,6 +45,20 @@ the client may crash...
 - JS scripting for sables
 - Sable manual control (click and hold the right mouse button)
 
+## Controls
+
+- WASD: for FPS style movement
+- Q and E: move up and down
+- B: toggle between build mode and play mode
+- Mouse right click: (build mode) place block Minecraft style, click
+  on sable opens sable UI
+- Mouse left click: (build mode) remove block/sable Minecraft style
+- Hold right mouse button: (build mode) allow to control sable
+- Enter: for the chat
+- V: toggle mute
+- Alt-F4: to close the game
+- Alt-Enter: to toggle full-screen and window mode
+
 ## Known Issues
 
 - Game sometimes crashes on a model load
