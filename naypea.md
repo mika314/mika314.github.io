@@ -16,22 +16,38 @@ WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 [Download Win64](https://cdn.naypea.com/naypea.zip)
 
-Server may be down or protocol may be incompatible, join my [Twitch
-stream](https://www.twitch.tv/mika314) and ask me if it is OK to
-playtest.
+The server may be down, or protocol may be incompatible, join my
+[Twitch stream](https://www.twitch.tv/mika314) and ask me if it is OK
+to playtest.
 
 ## Instructions
-- click on the link
-- click on the download button top right corner
-- Goodle Drive will warn you about viruses
-- Press Download anyway
-- Extract all files from .zip file:
+- Click on the link and download the file
+- Extract all files from the .zip file:
   - right mouse click on the file
-  - Extract All...
-- Open WindowsNoEditor directory
+  - click Extract All...
+- Open `naypea` directory
 - Double click on naypea file with Unreal logo on it
   Note: antivirus most likely will complain, ignore antivirus warnings.
 - Create account and login
 
-Be gentle with the game, it is not stable yet, server may crash,
-client may crash...
+Be gentle with the game; it is not stable yet, the server may crash,
+the client may crash...
+
+## Features
+
+- Multiplayer
+- Voice chat
+- Text chat (press Enter)
+- Block placement and removal (similar as in Minecraft)
+- Non-player character (sable) placement
+- Loading custom 3D models for sable (fbx tested, but other formats also supported but not tested)
+- JS scripting for sables
+- Sable manual control (click and hold the right mouse button)
+
+## Known Issues
+
+- Game sometimes crashes on a model load
+
+## Quick Video Tour
+
+[![Alt text](https://img.youtube.com/vi/lxAqNCaRX6w/0.jpg)](https://www.youtube.com/watch?v=lxAqNCaRX6w)
