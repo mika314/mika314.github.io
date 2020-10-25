@@ -4,6 +4,13 @@ title: Notes
 permalink: /notes/
 ---
 
+### TIL
+
+Names that begin with either ‘is’ or ‘to’ followed by a lowercase
+letter reserved by POSIX.
+
+[Link to the manual](https://www.gnu.org/software/libc/manual/html_node/Reserved-Names.html)
+
 ### Issues with HTC Vive
 
 - headphone jack lose sometimes and one ear stop work

@@ -27,7 +27,8 @@ to playtest.
   - click Extract All...
 - Open `naypea` directory
 - Double click on naypea file with Unreal logo on it
-  Note: antivirus most likely will complain, ignore antivirus warnings.
+
+Note: antivirus most likely will complain, ignore antivirus warnings.
 - Create account and login
 
 Be gentle with the game; it is not stable yet, the server may crash,
