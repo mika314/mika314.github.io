@@ -61,8 +61,8 @@ the client may crash...
 
 ## Known Issues
 
-- Game sometimes crashes on a model load
-- Multiple clients freezing the server
+- -Game sometimes crashes on a model load-
+- -Multiple clients freezing the server-
 
 ## Quick Video Tour
 
