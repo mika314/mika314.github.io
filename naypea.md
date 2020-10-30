@@ -64,6 +64,93 @@ the client may crash...
 - ~~Game sometimes crashes on a model load~~
 - ~~Multiple clients freezing the server~~
 
+## JavaScript
+
+Sable script is JavaScript. It has to have `tick()` function with two
+parameters on it. First parameter is a reference to the simulation and
+second parameter is a reference to the sable.
+
+### sim
+- `turn`: turn is number of turns in the game since Unix epoch. Right
+now simulation happens 100/sec. turn is a BigInt value.
+
+### sable
+- `id`: unique ID
+- `loc`: x, y, z location in cm
+- `lookUp(deg)`: makes sable look up to `deg` value, negative `deg` makes sable look down
+- `moveForward(value)`: moves sable forward `value` cm, negative
+  `value` moves sable backward
+- `moveRight(value)`: moves sable right `value` cm, negative
+  `value` moves sable left
+- `moveUp(value)`: moves sable up `value` cm, negative `value` moves sable down
+- `rot`: rotation in deg around x, y and z axis (x value should be
+  always 0)
+- `say(text)`: shows `text` for 5 seconds
+- `turnRight(deg)`: turn right `deg` value, negative `deg` turns sable
+  left
+- `interacts`: array of interacted heroes
+  - `id`: unique hero ID
+  - `loc`: x, y, z location in cm
+  - `rot`: rotation in deg around x, y and z axis (x value should be
+  always 0)
+  - `username`: hero's username
+
+### Custom vars
+
+It is possible to assign to sim and sable custom variables. Only
+number, bool and string are supported.
+
+### Example scripts
+
+#### Welcome to Naypea
+
+Sable says: "Welcome to Naypea" every 10 second.
+
+```javascript
+function tick(sim, sable)
+{
+  if (sim.turn % 1000n == 0)
+    sable.say("Welcome to Naypea");
+}
+```
+
+#### Rotate
+
+Sable rotates.
+
+```javascript
+function tick(sim, sable)
+{
+  sable.turnRight(3);
+}
+```
+
+#### My name is
+
+Sable on click says: "Hello, [your name]!";
+
+```javascript
+function tick(sim, sable)
+{
+  if (sable.interacts.length > 0)
+    sable.say("Hello, " + sable.interacts[0].username + "!");
+}
+```
+
+#### Cookie clicker
+
+Sable counts number of clicks.
+
+```javascript
+function tick(sim, sable)
+{
+  if (!sable.clicks)
+    sable.clicks = 0;
+  sable.clicks += sable.interacts.length;
+  sable.say("Clicks: " + sable.clicks);
+}
+```
+
 ## Quick Video Tour
 
 [![Alt text](https://img.youtube.com/vi/lxAqNCaRX6w/0.jpg)](https://www.youtube.com/watch?v=lxAqNCaRX6w)
