@@ -417,7 +417,7 @@ Complexity: XL - very hard, L - hard, M - medium, S - easy, XS - very easy
 1. [ ] p4 XS Watch Lars and the Real Girl (2007)
 1. [ ] p4 XS Watch Secretary (2002)
 1. [ ] p4 XS Watch Silver Linings Playbook (2012)
-1. [ ] p3 XS Watch Spirited Away (2001)
+1. [x] p3 XS Watch Spirited Away (2001)
 1. [ ] p4 XS Watch Submarine (2010)
 1. [ ] p4 XS Watch Zindagi Na Milegi Dobara (2011)
 1. [ ] p4 S Work on a pottery wheel
