@@ -7,7 +7,6 @@ permalink: /bucket-list-prioritized/
 # My Prioritized Bucket List
 
 1. [ ] p1 M Make a voxel MMO game
-1. [ ] p3 XS Watch Spirited Away (2001)
 1. [ ] p1 L Be a self-made millionaire
 1. [ ] p3 S Collect 1,000,000 LUX BUX on Lana_Lux Twitch channel
 1. [ ] p3 S Destroy stuff in a break room
