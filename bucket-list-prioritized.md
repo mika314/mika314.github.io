@@ -27,7 +27,6 @@ permalink: /bucket-list-prioritized/
 1. [ ] p3 S Go on a week-long cruise
 1. [ ] p3 S Have fun at Walt Disney World
 1. [ ] p2 M Lead a major project through successful implementation
-1. [ ] p3 S Log in Stardew Valley 20 hours
 1. [ ] p3 S Log in VRChat 2000 hours
 1. [ ] p2 M Own Tesla 3
 1. [ ] p2 M Own Tesla X

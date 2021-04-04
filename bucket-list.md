@@ -115,7 +115,7 @@ Complexity: XL - very hard, L - hard, M - medium, S - easy, XS - very easy
 1. [ ] p4 S Log in Conan Exiles 20 hours
 1. [ ] p4 S Log in Eve Online 20 hours
 1. [ ] p4 S Log in Skyrim VR 20 hours
-1. [ ] p3 S Log in Stardew Valley 20 hours
+1. [x] p3 S Log in Stardew Valley 20 hours
 1. [ ] p4 S Log in Subnautica 20 hours
 1. [ ] p3 S Log in VRChat 2000 hours
 1. [ ] p1 M Make a voxel MMO game
