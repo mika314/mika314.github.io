@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Bucket List
+title: Scale (music) DB
 permalink: /scale-music-db/
 ---
 
