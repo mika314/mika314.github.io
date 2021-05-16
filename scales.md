@@ -1075,7 +1075,7 @@ permalink: /scale-music-db/
 - 2 1 1 1 2 1 3 1 
 - 2 1 1 1 2 1 4 
 - 2 1 1 1 2 2 1 1 1 Nonatonic (Blues scale)
-- 2 1 1 1 2 2 1 2 
+- 2 1 1 1 2 2 1 2 Bebop Dorian Scale (also known as the bebop minor scale)
 - 2 1 1 1 2 2 2 1 
 - 2 1 1 1 2 2 3 
 - 2 1 1 1 2 3 1 1 
@@ -1196,13 +1196,13 @@ permalink: /scale-music-db/
 - 2 1 2 1 6 
 - 2 1 2 2 1 1 1 1 1 
 - 2 1 2 2 1 1 1 2 
-- 2 1 2 2 1 1 2 1 
+- 2 1 2 2 1 1 2 1 bebop melodic minor scale
 - 2 1 2 2 1 1 3 
-- 2 1 2 2 1 2 1 1 
+- 2 1 2 2 1 2 1 1 bebop harmonic minor scale (or bebop natural minor scale)
 - 2 1 2 2 1 2 2 Aeolian mode (natural minor) and Melodic minor scale (descending)
 - 2 1 2 2 1 3 1 Harmonic minor scale
 - 2 1 2 2 1 4 
-- 2 1 2 2 2 1 1 1 
+- 2 1 2 2 2 1 1 1 Alternate bebop Dorian scale
 - 2 1 2 2 2 1 2 Dorian mode 
 - 2 1 2 2 2 2 1 Melodic minor scale (ascending)
 - 2 1 2 2 2 3 
@@ -1325,7 +1325,7 @@ permalink: /scale-music-db/
 - 2 2 1 1 6 
 - 2 2 1 2 1 1 1 1 1 
 - 2 2 1 2 1 1 1 2 
-- 2 2 1 2 1 1 2 1 
+- 2 2 1 2 1 1 2 1 bebop major scale or the major sixth diminished scale
 - 2 2 1 2 1 1 3 
 - 2 2 1 2 1 2 1 1 
 - 2 2 1 2 1 2 2 'Major minor' scale 

@@ -1,7 +1,7 @@
 ---
-Layout: page
+Layout: post
 title: Mika's Game
-permalink: /mika-game/
+date:   2021-05-15 09:21:00 +0700
 ---
 
 This page is work in progress.
