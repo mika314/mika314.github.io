@@ -33,7 +33,7 @@ Complexity: XL - very hard, L - hard, M - medium, S - easy, XS - very easy
 1. [ ] p3 S Eat at a Michelin 3-star Restaurant
 1. [ ] p3 S Eat truffle as is
 1. [ ] p3 S Eat truffle in a dish
-1. [ ] p3 S Eat wagyu steak
+1. [x] p3 S Eat wagyu steak
 1. [ ] p3 S Experience the Northern Lights
 1. [ ] p3 S Experience weightlessness
 1. [ ] p4 M Explore a Rain Forest
