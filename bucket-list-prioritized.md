@@ -19,7 +19,6 @@ permalink: /bucket-list-prioritized/
 1. [ ] p3 S Eat at a Michelin 3-star Restaurant
 1. [ ] p3 S Eat truffle as is
 1. [ ] p3 S Eat truffle in a dish
-1. [ ] p3 S Eat wagyu steak
 1. [ ] p3 S Experience the Northern Lights
 1. [ ] p3 S Experience weightlessness
 1. [ ] p3 S Explore the Van Gogh Museum
@@ -48,7 +47,6 @@ permalink: /bucket-list-prioritized/
 1. [ ] p4 XS Watch Barfi! (2012)
 1. [ ] p4 XS Watch Big Fish (2003)
 1. [ ] p4 XS Watch Blue Valentine (2010)
-1. [ ] p4 XS Watch Eternal Sunshine of the Spotless Mind (2004)
 1. [ ] p4 XS Watch Garden State (2004)
 1. [ ] p4 XS Watch Good Will Hunting (1997)
 1. [ ] p4 XS Watch In Bruges (2008)

@@ -410,7 +410,7 @@ Complexity: XL - very hard, L - hard, M - medium, S - easy, XS - very easy
 1. [ ] p4 XS Watch Barfi! (2012)
 1. [ ] p4 XS Watch Big Fish (2003)
 1. [ ] p4 XS Watch Blue Valentine (2010)
-1. [ ] p4 XS Watch Eternal Sunshine of the Spotless Mind (2004)
+1. [x] p4 XS Watch Eternal Sunshine of the Spotless Mind (2004)
 1. [ ] p4 XS Watch Garden State (2004)
 1. [ ] p4 XS Watch Good Will Hunting (1997)
 1. [ ] p4 XS Watch In Bruges (2008)
