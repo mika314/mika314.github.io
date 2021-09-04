@@ -8,10 +8,6 @@ permalink: /games/
 
 ## Dream of Bells
 
-[![Dream of
-Bells](http://img.youtube.com/vi/Ek6qavO9nMA/0.jpg)](http://www.youtube.com/watch?v=Ek6qavO9nMA
-"Dream of Bells")
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ek6qavO9nMA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Dream of bells is a puzzle game. All bells in the world fall asleep
@@ -23,7 +19,7 @@ follow instructions and drive through bells in the desired order.
 
 ## Cowboys, Vampires, Pirates & Ghosts
 
-[![Cowboys, Vampires, Pirates & Ghosts](http://img.youtube.com/vi/bG95f_UUGLc/0.jpg)](http://www.youtube.com/watch?v=bG95f_UUGLc "Cowboys, Vampires, Pirates & Ghosts")
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bG95f_UUGLc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Life sim game with vampires, pirates, cowboys, and ghosts.
 
@@ -31,7 +27,7 @@ Life sim game with vampires, pirates, cowboys, and ghosts.
 
 ## Marooned
 
-[![Marooned](http://img.youtube.com/vi/7-hlw5xaC50/0.jpg)](http://www.youtube.com/watch?v=7-hlw5xaC50 "Marooned")
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7-hlw5xaC50" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 "Marooned" is a primitive survival game. One inventory slot, simple crafting system.
 
@@ -40,7 +36,7 @@ Life sim game with vampires, pirates, cowboys, and ghosts.
 
 ## Starter Pack
 
-[![Starter Pack](http://img.youtube.com/vi/iuiJsi4XJx8/0.jpg)](http://www.youtube.com/watch?v=iuiJsi4XJx8 "Starter Pack")
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iuiJsi4XJx8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 It is an action open-world FPS RPG game made with only a starter pack
 in UE4.
