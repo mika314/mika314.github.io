@@ -8,7 +8,11 @@ permalink: /games/
 
 ## Dream of Bells
 
-[![Dream of Bells](http://img.youtube.com/vi/Ek6qavO9nMA/0.jpg)](http://www.youtube.com/watch?v=Ek6qavO9nMA "Dream of Bells")
+[![Dream of
+Bells](http://img.youtube.com/vi/Ek6qavO9nMA/0.jpg)](http://www.youtube.com/watch?v=Ek6qavO9nMA
+"Dream of Bells")
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ek6qavO9nMA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Dream of bells is a puzzle game. All bells in the world fall asleep
 because of some evil magic. Your goal is to wake them up in a specific
