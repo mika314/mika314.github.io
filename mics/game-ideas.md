@@ -62,8 +62,7 @@ Make online game / P2P
 * Dying planet
 * Each playthrough builds on the last
 * Everything grows
-* Everything has a Cost
-* Everything has a price
+* Everything has a Price
 * Everything is Too Little
 * Everything is connected
 * Evolve
@@ -80,7 +79,6 @@ Make online game / P2P
 * Inconvenient Superpowers
 * Into the unknown
 * Island
-* Isolation
 * Isolation
 * It only changes when you aren't looking
 * It's spreading
@@ -112,7 +110,6 @@ Make online game / P2P
 * One Tool, Many Uses
 * One enemy only
 * One item, many uses
-* One level, but constantly changing
 * One minute
 * One room
 * One time use
@@ -183,7 +180,6 @@ Make online game / P2P
 * You control the scenario, not the character
 * You really shouldn't mix those
 * Your life is currency
-
 
 ## Action RPG
 
