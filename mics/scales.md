@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Scale (music) DB
-permalink: /scale-music-db/
+permalink: /mics/scale-music-db/
 ---
 
 # Scale (music) DB

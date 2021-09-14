@@ -1,3 +1,9 @@
+---
+layout: page
+title: Notes
+permalink: //mics/game-ideas/
+---
+
 Learn:
 
 * [x] Terrain
