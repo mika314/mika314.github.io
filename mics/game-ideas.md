@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Notes
-permalink: //mics/game-ideas/
+title: Game Ideas
+permalink: /mics/game-ideas/
 ---
 
 Learn:
