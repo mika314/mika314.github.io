@@ -4,6 +4,12 @@ title: Notes
 permalink: /mics/notes/
 ---
 
+### British vs American
+
+* flat - appartment
+* congestion - traffic jam
+* take away - to go
+
 ### TIL
 
 Names that begin with either ‘is’ or ‘to’ followed by a lowercase
