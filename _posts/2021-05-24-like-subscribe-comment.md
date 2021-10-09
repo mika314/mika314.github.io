@@ -4,8 +4,6 @@ title: Like. Subscribe. Comment.
 date: 2021-05-27 00:00:00 +0700
 ---
 
-# Like. Subscribe. Comment.
-
 I finished Level 9: Like. Subscribe. Comment. This was also an attempt
 to hack the YouTube algorithm. I was thinking to make some music video
 based on the track to drive the traffic to my games. I kind of not

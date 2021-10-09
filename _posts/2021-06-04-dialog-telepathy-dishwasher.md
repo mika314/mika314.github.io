@@ -4,8 +4,6 @@ title: Dialog System, Telepathy Quest, Dishwasher Quest
 date: 2021-06-04 00:00:00 +0700
 ---
 
-# Dialog System, Telepathy Quest, Dishwasher Quest
-
 For dialog system I added `UDialogItem` class to store the dialog line
 in it. It has to be derived from UObject. I implemented the dialog
 line extraction in `UDialogLineUi` and put it in the UTextBlock. I do
