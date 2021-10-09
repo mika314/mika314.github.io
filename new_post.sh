@@ -1,7 +1,7 @@
 #!/bin/bash
 root=`dirname "$0"`
 cd $root
-datetime=`date +'%Y-%m-%d %H:%m:%S'`
+datetime=`date +'%Y-%m-%d %H:%M:%S'`
 filename=`date +'%Y-%m-%d-%s'`.md
 echo $filename
 echo "---
