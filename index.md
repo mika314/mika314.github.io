@@ -5,7 +5,7 @@ permalink: /
 ---
 
 {% for post in site.posts limit:10 %}
-## <a href="{{ post.url }}">{{ post.title }}</a>
+#### <a href="{{ post.url }}">{{ post.title }}</a>
 {{ post.content }}
 {% endfor %}
 
