@@ -39,3 +39,4 @@ exclude:
   - vendor/gems/
   - vendor/ruby/
   - prioritize_bucket_list/
+  - new_post.sh
