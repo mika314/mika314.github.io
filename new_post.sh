@@ -1,4 +1,6 @@
 #!/bin/bash
+root=`dirname "$0"`
+cd $root
 datetime=`date +'%Y-%m-%d %H:%m:%S'`
 filename=`date +'%Y-%m-%d-%s'`.md
 echo $filename
