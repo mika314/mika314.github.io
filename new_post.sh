@@ -6,11 +6,11 @@ filename=`date +'%Y-%m-%d-%s'`.md
 echo $filename
 echo "---
 Layout: post
-title: $datetime
+title: Untitled
 date: $datetime +0700
 ---" > "_posts/$filename"
 emacs "_posts/$filename"
 git add .
-git commit -m "autoupdate"
+git commit -m "new post"
 git pull
 git push
