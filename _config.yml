@@ -23,7 +23,7 @@ github_username:  mika314
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-leap-day
+theme: minima
 plugins:
   - jekyll-feed
 
