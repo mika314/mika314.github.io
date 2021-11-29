@@ -257,7 +257,7 @@ Complexity: XL - very hard, L - hard, M - medium, S - easy, XS - very easy
 1. [ ] p4 S Visit Marshall Islands
 1. [ ] p4 S Visit Mauritania
 1. [ ] p4 S Visit Mauritius
-1. [ ] p4 S Visit Mexico
+1. [x] p4 S Visit Mexico
 1. [ ] p4 S Visit Micronesia
 1. [ ] p4 S Visit Moldova
 1. [ ] p4 S Visit Monaco
