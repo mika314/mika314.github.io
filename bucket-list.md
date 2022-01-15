@@ -44,6 +44,7 @@ Complexity: XL - very hard, L - hard, M - medium, S - easy, XS - very easy
 1. [ ] p3 S Experience weightlessness
 1. [ ] p4 M Explore a Rain Forest
 1. [ ] p3 S Explore the Van Gogh Museum
+1. [ ] p1 XL Find the cure for cancer
 1. [ ] p4 M Finish a classic novel and publish it
 1. [ ] p4 S Finish the game Don't notice me
 1. [ ] p4 S Finish the game Rakuen
