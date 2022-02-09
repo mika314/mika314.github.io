@@ -8,7 +8,6 @@ permalink: /bucket-list-prioritized/
 
 1. [ ] p1 M Make a voxel MMO game
 1. [ ] p1 L Be a self-made millionaire
-1. [ ] p3 S Collect 1,000,000 LUX BUX on Lana_Lux Twitch channel
 1. [ ] p3 S Destroy stuff in a break room
 1. [ ] p3 S Do the Edge Walk at CN Tower
 1. [ ] p4 XS Dye my hair blue color
@@ -62,13 +61,13 @@ permalink: /bucket-list-prioritized/
 1. [ ] p4 S Eat Crickets
 1. [ ] p4 S Eat Fugu
 1. [ ] p4 S Eat Maine Lobster
+1. [ ] p1 XL Find the cure for cancer
 1. [ ] p4 S Finish the game Don't notice me
 1. [ ] p4 S Finish the game Rakuen
 1. [ ] p4 S Float in the Dead Sea
 1. [ ] p4 S Get a Tattoo
 1. [ ] p3 M Give a Ted Talk
 1. [ ] p3 M Have more than 1000 viewers in average on Twitch for past 30
-1. [ ] p4 S Ride a helicopter
 1. [ ] p4 S Helicopter into the Grand Canyon
 1. [ ] p4 S Indoor Skydive
 1. [ ] p4 S Knit a Scarf
@@ -89,6 +88,7 @@ permalink: /bucket-list-prioritized/
 1. [ ] p4 S Participate in a Japanese Tea Ceremony
 1. [ ] p4 S Read the book Masters of Doom: How Two Guys Created an Empire and Transformed Pop Culture
 1. [ ] p4 S Relax in a sensory deprivation tank
+1. [ ] p4 S Ride a helicopter
 1. [ ] p4 S Ride on one of the largest roller coasters
 1. [ ] p3 M Road trip across the entire United States (visit all states)
 1. [ ] p4 S See Niagara Falls
