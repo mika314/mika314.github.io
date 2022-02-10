@@ -29,7 +29,7 @@ Complexity: XL - very hard, L - hard, M - medium, S - easy, XS - very easy
 1. [ ] p4 S Eat Cactus
 1. [ ] p4 S Eat Crickets
 1. [ ] p4 S Eat Fugu
-1. [ ] p3 S Eat KFC
+1. [x] p3 S Eat KFC
 1. [ ] p4 S Eat Maine Lobster
 1. [x] p3 S [Eat Raw Oysters](https://youtu.be/IvHFzMFwnb8)
 1. [ ] p3 S Eat at a Michelin 3-star Restaurant

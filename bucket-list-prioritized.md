@@ -13,7 +13,6 @@ permalink: /bucket-list-prioritized/
 1. [ ] p4 XS Dye my hair blue color
 1. [ ] p2 M Earn 7 figures per year
 1. [ ] p3 S Eat Buffalo Wings in Buffalo
-1. [ ] p3 S Eat KFC
 1. [ ] p3 S Eat at a Michelin 3-star Restaurant
 1. [ ] p3 S Eat truffle as is
 1. [ ] p3 S Eat truffle in a dish
