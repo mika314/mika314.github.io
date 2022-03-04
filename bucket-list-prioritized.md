@@ -81,7 +81,6 @@ permalink: /bucket-list-prioritized/
 1. [ ] p4 S Log in Eve Online 20 hours
 1. [ ] p4 S Log in Skyrim VR 20 hours
 1. [ ] p4 S Log in Subnautica 20 hours
-1. [ ] p4 S Make a font out of my handwriting
 1. [ ] p4 S Make a potato-gun
 1. [ ] p4 S Make mozzarella cheese
 1. [ ] p4 S Participate in a Japanese Tea Ceremony
