@@ -1,7 +1,7 @@
 ---
 Layout: post
 title: Game Ideas
-date: 2022-05-21 22:49:26 +0700
+date: 2021-09-21 22:49:26 +0700
 ---
 
 Learn:
