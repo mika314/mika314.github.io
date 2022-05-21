@@ -15,327 +15,6 @@ Make online game / P2P
 
 # Game Ideas
 
-## Unstable
-1. A game where you play as a mentally unstable person. You can change
-   your personality at any time, but each new personality has its own
-   unique abilities and limitations.
-1. A first-person shooter where you play as a schizophrenic and the
-   only way to win is to kill all the voices in your head.
-1. A game where you play as a schizophrenic trying to keep your
-   delusions and reality separate.
-1. A game where you play as a character who is trying to escape from a
-   hospital. The hospital itself is an ever changing maze, and the
-   walls are made of flesh.
-1. A platformer that has the player control a single pixel on a
-   screen. The player can move around and interact with certain
-   objects in the environment. The main goal is to collect all of the
-   colored pixels on each level.
-1. The game is called Unstable. The game is just that, you are a newly
-   formed life form that can't quite stay in one place. You have to
-   move around to survive. The only way to survive is to collect other
-   life forms and grow your unstable being into something bigger. The
-   controls for 
-1. A game where the map is generated procedurally, but becomes
-    unstable over time. The game is divided in two phases: exploration
-    and survival. During exploration, you can freely explore the map
-    and find new areas to unlock. Once you start the survival phase,
-    the map will slowly become more and more unstable
-1. Unstable is a game where you control a ball that can change its
-   shape. The game is set in a world where physics are very
-   unstable. You will have to use your unstable ball to solve puzzles
-   and to progress through the levels, but it's not easy! Each time
-   you change the shape of your ball, the physics of the world change
-   too.
-1. A game where you play as a lab assistant in a lab that is testing
-   out a new chemical compound. As you progress, the compound becomes
-   more and more unstable, and things start to go wrong. Levels start
-   to break down and randomize, and eventually the main character
-   starts to lose their mind.
-1. A game where you control a character who is slowly losing his
-   mind. As time progresses, the world around him becomes more and
-   more unstable, with objects and characters appearing and
-   disappearing at random. The player has to stay sane long enough to
-   find a way out of the level.
-1. Unstable is a game where physics are constantly changing. The
-   player has to adapt to the changes in order to progress.
-1. Unstable is a game about an AI that has gained sentience and is
-   trying to understand the world around it. It's learning process is
-   very unstable, causing it to glitch out and change the rules of the
-   game every time you play.
-1. You are lost in a simulation of a world run by an AI, who is
-   determined to make you fail. This world is constantly changing
-   around you, with the AI constantly making changes to try to make
-   your life difficult. These can be large weather events to try to
-   kill you, random encounters with creatures
-1.  A roguelike platformer with a heavy focus on permadeath and
-    replayability. In this game, there are no shops, only resources
-    you can pick up from enemies or from the environment. You can use
-    these resources to craft weapons and equipment which you use to
-    fight monsters and rescue NPC's
-1. A game about mental illness. Imagine a game where your character
-   doesn't have to defeat his enemies; they're all in his head. It's
-   not action-oriented, but rather about the mundane tasks of living
-   with an illness. The player has to complete daily tasks like
-   brushing your teeth or taking your medication, while also
-   addressing more profound problems like their character's self-image
-   or inability to trust others. This game could be an interactive
-   story about coping with mental illness where the character can
-   choose to take on some of the burdens of their illness, or ignore
-   them entirely. This choice is reflected in how the game plays out.
-1. A racing game in which the tracks continue to move and change. You
-   can eventually use that to trick your opponents into falling off
-   the track, but if you're not careful you could just as easily drive
-   off yourself.
-1.  Unstable - a game where you play as a man, who wakes up every
-    morning with a new body. Each body has different abilities, but
-    all have the same goal - to get to know everyone in his village,
-    and help them with their problems.
-1. Unstable is a PvP game where everything resets if someone dies. The
-    players are fighting on a map of some kind and they can build and
-    destroy blocks with special abilities (for example, a block that
-    makes you immune to damage or a block that fills in areas where
-    there are no blocks). This is an interesting way to make a
-    deathmatch style game with elements of building and exploration.
-
-    The main risk of Unstable would be dealing with griefers. If they kill
-    the other players, they lose out on the combat. If you're playing
-    against someone else, it risks being irritating for them to have to
-    deal with all their stuff getting destroyed by another player who just
-    wants to screw around.
-1. The player is a robot whose programming is unstable, causing them
-   to glitch in various ways, using this mechanic to solve puzzles in
-   a Metroidvania style game. The game runs on an old computer which
-   can be upgraded to change the way things respond, increasing the
-   power of the robot, allowing new paths to be opened and things to
-   be interacted with.
-1. Go on a tour as a Doctor as you restore some patients to as close
-   to perfect health as they can be. Things will break and shake as
-   the Unstable patients react violently to your actions. You will
-   have some emergency supplies on hand, but enough for everyone?
-1. In Unstable gravity does not behave as expected. Levels are often
-   alive, with their own movement patterns and goals, and sometimes
-   they will play tricks on you.
-1.  The game rules are in constant flux. As you play, the gameplay is
-    constantly changing, so much so that the only way to win might be
-    to change the rules yourself. You have to cause paradoxical events
-    in order to win.
-1. Create a platformer that uses features that are only unstable,
-   buggy or otherwise have limited functionality. Use them to your
-   advantage to complete the level, but also know that they will cause
-   problems!
-1. A procedurally generated platformer about a man who wakes up every
-   day in a different parallel universe with all the same surroundings
-   but shifting laws of physics and people's personalities to awkward
-   and sometimes dangerous degrees.
-1. Have you ever played a game where bugs in the game broke it so much it's no longer fun to play? The player knows exactly where the bugs are but doesn't have the tools to fix them so they have to work around them. Think about how much strategy you could implement in a game if you gave the players some tools to break it on purpose.
-Imagine a level where a slight misstep on a non-essential platform causes a cascading failure of the level, sending you back to the beginning. Imagine a character that chooses to have an incredibly high defense, but be unable to use items. Imagine a character that has an incredibly powerful and useful item, but is unable to jump.
-You could also do something like what Dark Souls did where it gives
-you the ability to break your own game with enough skill. The player
-does not have the tools to fix things, but they can
-1.  Unstable is a game about balance and fairness. By dropping and
-    stacking blocks, you can create precarious stacks. Some stacks
-    will be stable, and you can manipulate them as you like. Others
-    will be unstable and may even be destroyed with a single
-    touch. You can make things easier for yourself by creating stable
-    stacks and carefully destroying them, but even then you'll have to
-    watch out for hazards such as spikes or lava.
-1. Unstable is a game about building a tower to the sky. The twist is
-   that instead of building the tower on solid ground, you build it on
-   ice floes that are slowly drifting away. The player has to jump
-   between ice floes to gather resources, all the while making sure
-   their tower doesn't fall apart! 
-   
-
-Game Jam.
-Theme: Unstable
-
-Name of the game: Brekout.
-
-The game by itself is unstable: it crashes randomly and has weird
-bugs. Part of the game play is fictional communication with the
-developer of the game.
-
-# Title Screen
-
-The game starts with a title screen "Brekout", which shows the name of
-the game, its developers, version 0.0.1-a in the and bottom right
-corner, and the play button. As soon as the player clicks on the play
-button game crashes. In the prompt player has an option to report the
-crash to the developer. After a while developer sends a message to the
-player reassuring the crash bug is fixed.
-
-The game restarts, the player clicks on the play button again.
-
-# Loading Screen
-
-The progress bar is slowly moving forward. Suddenly, it starts moving
-erratically. And the game crashes again and restarts to the Title Screen.
-
-The player clicks on the play button again.
-
-# Loading Screen 2
-
-The progress bar is slowly moving forward. Suddenly, it starts moving
-erratically. The game crashes again. The player clicks on the play
-button again. This time the progress bar moves forward normally and game loads up.
-
-# Game Screen
-
-The player plays the game, which is actually a classic "Snake" game.
-
-The player controls the snake with the arrow keys. The gameplay is
-very unstable. Sometimes the snake moves in one direction, sometimes
-it moves in another direction, sometimes it disappears, sometimes it
-reappears. The player can get killed by touching its own tail or by
-crashing into walls.
-
-The game ends when the player crashes into walls or its own tail.
-
-List of bugs:
-* Snake moves in the incorrect direction
-* The tail sometimes become shorter
-* Tha tail sometimes become very big
-* Snake can go through the walls
-* Score may become negative
-* Score may become huge
-* The snake disappears
-
-# Prompt
-The message from the developer appears in the center of the screen. It
-explains that due to a bug in the programming, it is hard to make the
-game stable. The developer wants to make an update. It asks to wait
-for a while and the game restarts.
-
-# Title Screen
-The same as before: it shows the title and the progress bar. Also,
-there's a message from developer that it has fixed all of those bugs
-and that Snake should run smoothly now. After some time, the game
-restarts.
-
-# Loading Screen 2
-The same as before: it shows the progress bar moving forward.
-
-# Game Screen 2
-The game runs smoothly, but it is actually not the same game. The
-player controls the Snake with the arrow keys. But the gameplay is
-different. There is a wall at the right side of the screen, and there
-is fire at the left. The Snake has to try to get to farthest to the
-right side of the screen. To do so it must touch the walls.
-
-The Snake can go through the fire and the tail dissapears from the
-screen and game crashes. Also, the Snake can go through the left side
-of the screen. If it touches one of those walls or goes out of the
-screen, and game crashes.
-
-Also, there are 2 types of fireballs that are constantly moving
-around. If the player gets hit, the game crashes and restarts.
-
-# Prompt
-The message appears again in the center of the screen. The developer
-apologizes for making this game too hard. The message asks to wait for
-another update and then restarts the game to the Title Screen.
-
-# Title Screen 2
-The same as before. At the top of the screen is the message that the
-game has been updated, and it should run smoothly now. At the bottom
-of the screen are previous messages from developer. On the right side
-is a button labeled "Reset". Clicking on it, the game restarts to the
-Loading Screen 2. Clicking on "Play" starts the game.
-
-# Loading Screen 3
-The same as before: it shows the progress bar moving forward. But
-after a while it goes back to 0%. Over time, it slowly moves forward
-again.
-
-# Game Screen 3
-The game runs smoothly, but it is actually not the same game. The
-player controls the Snake with the arrow keys. But the gameplay is
-different. There are blocks of different colors on the screen, and
-there are two fireballs constantly moving around.
-
-Snake does not die if it touches the block but block changes the color
-and the block disappear after the player touches them 3-4 times. Also,
-touching the fireballs makes the Snake explode, and the game
-restarts.
-
-There is also a button on the top of the screen that changes
-colors. On some colors it takes away 1 point all of the time. On the
-other colors it takes away 10 points all of the time. If the player
-touches that button, it kills the snake, and the game restarts.
-
-# Prompt
-The message appears again in the center of the screen. The developer
-apologizes for making this game too hard, and asks to wait for another
-update. The message asks to come back after a week. The game restarts
-to the Title Screen 2.
-
-# Title Screen 3
-It shows the progress bar moving forward, and asks to wait for a
-while. The message on the right side shows previous messages from
-developer and a "Play" button.
-
-# Loading Screen 4
-The same as before: it shows the progress bar moving forward. After
-some time it goes back to 0%. Over time, it slowly moves forward
-again.
-
-# Game Screen 4
-The game runs smoothly, but it is actually not the same game. The
-player controls the Snake with the arrow keys. The gameplay is similar
-to the first version, but the graphics are different. There are blocks
-of different colors on the screen, and there are two fireballs
-constantly moving around.
-
-The block disappear after the player touches them 3-4 times. Also,
-touching the fireballs makes the Snake explode.
-
-There is also a button on the top of the screen that changes
-colors. On some colors it takes away 1 point all of the time. On the
-other colors it takes away 10 points all of the time. If it touches
-that button, it kills the snake, and the game restarts.
-
-# Prompt
-The message appears again in the center of game screen. The game has
-been updated again, and should run smoothly now. The message asks to
-wait for another update and then restarts to Title Screen 3.
-
-# Title Screen 4
-At top of screen there's a message that Snake should run smoothly
-now. There's also a progress bar moving forward slowly, and there's a
-button "Play". On bottom are previous messages from developer and at
-right side is another button "Restart". Clicking on "Play" starts the
-game with Game Screen 4 (Snake). Clicking on "Restart" brings back
-Loading Screen 4 (Progress Bar). After some time Progress Bar moves
-forward to 100% ("Loading...") and then to Title Screen 5 (Previously
-seen). After some time it goes back to 0% again and loops again
-between Loading Screen 4 and Game Screen 4 until "Restart" is clicked
-again to go to Title Screen 4 again. If Progress Bar gets stuck at 0%
-for more than 10 minutes, restarting computer restarts it back again
-at 0%.
-
-# Game Over Screen
-
-The game shows the score and highscore table, which is empty. The
-player can click on the "Report" button to report a bug to the
-developer. And then the game restarts.
-
-The player clicks on the "Report" button.
-
-# Developer Screen
-
-The player communicates with the developer through chat window. The
-programmer is not talking back. The player can report bugs with the
-"Report" button, but it doesn't help. The game keeps crashing
-randomly.
-
-# Developer Screen 2
-
-The game crashes again. The player clicks on the "Report" button
-again. The programmer apologizes for the bug and asks if it can be
-used in the game. The programmer then turns the bug into an actual
-gameplay mechanic, that enables to get more points
-   
-
 ## Themes from Ludum Dare
 * 1 HP
 * 1 minute to prepare
@@ -522,7 +201,6 @@ Races:
 Quests:
 
 ## Robots World
-
 
 Utopian World.
 
@@ -959,3 +637,321 @@ Walk in the house, collect memes, and decorate Xmas three with memes.
 
 ## Twitch Game
 
+## Unstable
+1. A game where you play as a mentally unstable person. You can change
+   your personality at any time, but each new personality has its own
+   unique abilities and limitations.
+1. A first-person shooter where you play as a schizophrenic and the
+   only way to win is to kill all the voices in your head.
+1. A game where you play as a schizophrenic trying to keep your
+   delusions and reality separate.
+1. A game where you play as a character who is trying to escape from a
+   hospital. The hospital itself is an ever changing maze, and the
+   walls are made of flesh.
+1. A platformer that has the player control a single pixel on a
+   screen. The player can move around and interact with certain
+   objects in the environment. The main goal is to collect all of the
+   colored pixels on each level.
+1. The game is called Unstable. The game is just that, you are a newly
+   formed life form that can't quite stay in one place. You have to
+   move around to survive. The only way to survive is to collect other
+   life forms and grow your unstable being into something bigger. The
+   controls for 
+1. A game where the map is generated procedurally, but becomes
+    unstable over time. The game is divided in two phases: exploration
+    and survival. During exploration, you can freely explore the map
+    and find new areas to unlock. Once you start the survival phase,
+    the map will slowly become more and more unstable
+1. Unstable is a game where you control a ball that can change its
+   shape. The game is set in a world where physics are very
+   unstable. You will have to use your unstable ball to solve puzzles
+   and to progress through the levels, but it's not easy! Each time
+   you change the shape of your ball, the physics of the world change
+   too.
+1. A game where you play as a lab assistant in a lab that is testing
+   out a new chemical compound. As you progress, the compound becomes
+   more and more unstable, and things start to go wrong. Levels start
+   to break down and randomize, and eventually the main character
+   starts to lose their mind.
+1. A game where you control a character who is slowly losing his
+   mind. As time progresses, the world around him becomes more and
+   more unstable, with objects and characters appearing and
+   disappearing at random. The player has to stay sane long enough to
+   find a way out of the level.
+1. Unstable is a game where physics are constantly changing. The
+   player has to adapt to the changes in order to progress.
+1. Unstable is a game about an AI that has gained sentience and is
+   trying to understand the world around it. It's learning process is
+   very unstable, causing it to glitch out and change the rules of the
+   game every time you play.
+1. You are lost in a simulation of a world run by an AI, who is
+   determined to make you fail. This world is constantly changing
+   around you, with the AI constantly making changes to try to make
+   your life difficult. These can be large weather events to try to
+   kill you, random encounters with creatures
+1.  A roguelike platformer with a heavy focus on permadeath and
+    replayability. In this game, there are no shops, only resources
+    you can pick up from enemies or from the environment. You can use
+    these resources to craft weapons and equipment which you use to
+    fight monsters and rescue NPC's
+1. A game about mental illness. Imagine a game where your character
+   doesn't have to defeat his enemies; they're all in his head. It's
+   not action-oriented, but rather about the mundane tasks of living
+   with an illness. The player has to complete daily tasks like
+   brushing your teeth or taking your medication, while also
+   addressing more profound problems like their character's self-image
+   or inability to trust others. This game could be an interactive
+   story about coping with mental illness where the character can
+   choose to take on some of the burdens of their illness, or ignore
+   them entirely. This choice is reflected in how the game plays out.
+1. A racing game in which the tracks continue to move and change. You
+   can eventually use that to trick your opponents into falling off
+   the track, but if you're not careful you could just as easily drive
+   off yourself.
+1.  Unstable - a game where you play as a man, who wakes up every
+    morning with a new body. Each body has different abilities, but
+    all have the same goal - to get to know everyone in his village,
+    and help them with their problems.
+1. Unstable is a PvP game where everything resets if someone dies. The
+    players are fighting on a map of some kind and they can build and
+    destroy blocks with special abilities (for example, a block that
+    makes you immune to damage or a block that fills in areas where
+    there are no blocks). This is an interesting way to make a
+    deathmatch style game with elements of building and exploration.
+
+    The main risk of Unstable would be dealing with griefers. If they kill
+    the other players, they lose out on the combat. If you're playing
+    against someone else, it risks being irritating for them to have to
+    deal with all their stuff getting destroyed by another player who just
+    wants to screw around.
+1. The player is a robot whose programming is unstable, causing them
+   to glitch in various ways, using this mechanic to solve puzzles in
+   a Metroidvania style game. The game runs on an old computer which
+   can be upgraded to change the way things respond, increasing the
+   power of the robot, allowing new paths to be opened and things to
+   be interacted with.
+1. Go on a tour as a Doctor as you restore some patients to as close
+   to perfect health as they can be. Things will break and shake as
+   the Unstable patients react violently to your actions. You will
+   have some emergency supplies on hand, but enough for everyone?
+1. In Unstable gravity does not behave as expected. Levels are often
+   alive, with their own movement patterns and goals, and sometimes
+   they will play tricks on you.
+1.  The game rules are in constant flux. As you play, the gameplay is
+    constantly changing, so much so that the only way to win might be
+    to change the rules yourself. You have to cause paradoxical events
+    in order to win.
+1. Create a platformer that uses features that are only unstable,
+   buggy or otherwise have limited functionality. Use them to your
+   advantage to complete the level, but also know that they will cause
+   problems!
+1. A procedurally generated platformer about a man who wakes up every
+   day in a different parallel universe with all the same surroundings
+   but shifting laws of physics and people's personalities to awkward
+   and sometimes dangerous degrees.
+1. Have you ever played a game where bugs in the game broke it so much it's no longer fun to play? The player knows exactly where the bugs are but doesn't have the tools to fix them so they have to work around them. Think about how much strategy you could implement in a game if you gave the players some tools to break it on purpose.
+Imagine a level where a slight misstep on a non-essential platform causes a cascading failure of the level, sending you back to the beginning. Imagine a character that chooses to have an incredibly high defense, but be unable to use items. Imagine a character that has an incredibly powerful and useful item, but is unable to jump.
+You could also do something like what Dark Souls did where it gives
+you the ability to break your own game with enough skill. The player
+does not have the tools to fix things, but they can
+1.  Unstable is a game about balance and fairness. By dropping and
+    stacking blocks, you can create precarious stacks. Some stacks
+    will be stable, and you can manipulate them as you like. Others
+    will be unstable and may even be destroyed with a single
+    touch. You can make things easier for yourself by creating stable
+    stacks and carefully destroying them, but even then you'll have to
+    watch out for hazards such as spikes or lava.
+1. Unstable is a game about building a tower to the sky. The twist is
+   that instead of building the tower on solid ground, you build it on
+   ice floes that are slowly drifting away. The player has to jump
+   between ice floes to gather resources, all the while making sure
+   their tower doesn't fall apart! 
+   
+
+## Game Jam. Theme: Unstable
+
+Name of the game: Brekout.
+
+The game by itself is unstable: it crashes randomly and has weird
+bugs. Part of the game play is fictional communication with the
+developer of the game.
+
+### Title Screen
+
+The game starts with a title screen "Brekout", which shows the name of
+the game, its developers, version 0.0.1-a in the and bottom right
+corner, and the play button. As soon as the player clicks on the play
+button game crashes. In the prompt player has an option to report the
+crash to the developer. After a while developer sends a message to the
+player reassuring the crash bug is fixed.
+
+The game restarts, the player clicks on the play button again.
+
+### Loading Screen
+
+The progress bar is slowly moving forward. Suddenly, it starts moving
+erratically. And the game crashes again and restarts to the Title Screen.
+
+The player clicks on the play button again.
+
+### Loading Screen 2
+
+The progress bar is slowly moving forward. Suddenly, it starts moving
+erratically. The game crashes again. The player clicks on the play
+button again. This time the progress bar moves forward normally and game loads up.
+
+### Game Screen
+
+The player plays the game, which is actually a classic "Snake" game.
+
+The player controls the snake with the arrow keys. The gameplay is
+very unstable. Sometimes the snake moves in one direction, sometimes
+it moves in another direction, sometimes it disappears, sometimes it
+reappears. The player can get killed by touching its own tail or by
+crashing into walls.
+
+The game ends when the player crashes into walls or its own tail.
+
+List of bugs:
+* Snake moves in the incorrect direction
+* The tail sometimes become shorter
+* Tha tail sometimes become very big
+* Snake can go through the walls
+* Score may become negative
+* Score may become huge
+* The snake disappears
+
+### Prompt
+The message from the developer appears in the center of the screen. It
+explains that due to a bug in the programming, it is hard to make the
+game stable. The developer wants to make an update. It asks to wait
+for a while and the game restarts.
+
+### Title Screen
+The same as before: it shows the title and the progress bar. Also,
+there's a message from developer that it has fixed all of those bugs
+and that Snake should run smoothly now. After some time, the game
+restarts.
+
+### Loading Screen 2
+The same as before: it shows the progress bar moving forward.
+
+### Game Screen 2
+The game runs smoothly, but it is actually not the same game. The
+player controls the Snake with the arrow keys. But the gameplay is
+different. There is a wall at the right side of the screen, and there
+is fire at the left. The Snake has to try to get to farthest to the
+right side of the screen. To do so it must touch the walls.
+
+The Snake can go through the fire and the tail dissapears from the
+screen and game crashes. Also, the Snake can go through the left side
+of the screen. If it touches one of those walls or goes out of the
+screen, and game crashes.
+
+Also, there are 2 types of fireballs that are constantly moving
+around. If the player gets hit, the game crashes and restarts.
+
+### Prompt
+The message appears again in the center of the screen. The developer
+apologizes for making this game too hard. The message asks to wait for
+another update and then restarts the game to the Title Screen.
+
+### Title Screen 2
+The same as before. At the top of the screen is the message that the
+game has been updated, and it should run smoothly now. At the bottom
+of the screen are previous messages from developer. On the right side
+is a button labeled "Reset". Clicking on it, the game restarts to the
+Loading Screen 2. Clicking on "Play" starts the game.
+
+### Loading Screen 3
+The same as before: it shows the progress bar moving forward. But
+after a while it goes back to 0%. Over time, it slowly moves forward
+again.
+
+### Game Screen 3
+The game runs smoothly, but it is actually not the same game. The
+player controls the Snake with the arrow keys. But the gameplay is
+different. There are blocks of different colors on the screen, and
+there are two fireballs constantly moving around.
+
+Snake does not die if it touches the block but block changes the color
+and the block disappear after the player touches them 3-4 times. Also,
+touching the fireballs makes the Snake explode, and the game
+restarts.
+
+There is also a button on the top of the screen that changes
+colors. On some colors it takes away 1 point all of the time. On the
+other colors it takes away 10 points all of the time. If the player
+touches that button, it kills the snake, and the game restarts.
+
+### Prompt
+The message appears again in the center of the screen. The developer
+apologizes for making this game too hard, and asks to wait for another
+update. The message asks to come back after a week. The game restarts
+to the Title Screen 2.
+
+### Title Screen 3
+It shows the progress bar moving forward, and asks to wait for a
+while. The message on the right side shows previous messages from
+developer and a "Play" button.
+
+### Loading Screen 4
+The same as before: it shows the progress bar moving forward. After
+some time it goes back to 0%. Over time, it slowly moves forward
+again.
+
+### Game Screen 4
+The game runs smoothly, but it is actually not the same game. The
+player controls the Snake with the arrow keys. The gameplay is similar
+to the first version, but the graphics are different. There are blocks
+of different colors on the screen, and there are two fireballs
+constantly moving around.
+
+The block disappear after the player touches them 3-4 times. Also,
+touching the fireballs makes the Snake explode.
+
+There is also a button on the top of the screen that changes
+colors. On some colors it takes away 1 point all of the time. On the
+other colors it takes away 10 points all of the time. If it touches
+that button, it kills the snake, and the game restarts.
+
+### Prompt
+The message appears again in the center of game screen. The game has
+been updated again, and should run smoothly now. The message asks to
+wait for another update and then restarts to Title Screen 3.
+
+### Title Screen 4
+At top of screen there's a message that Snake should run smoothly
+now. There's also a progress bar moving forward slowly, and there's a
+button "Play". On bottom are previous messages from developer and at
+right side is another button "Restart". Clicking on "Play" starts the
+game with Game Screen 4 (Snake). Clicking on "Restart" brings back
+Loading Screen 4 (Progress Bar). After some time Progress Bar moves
+forward to 100% ("Loading...") and then to Title Screen 5 (Previously
+seen). After some time it goes back to 0% again and loops again
+between Loading Screen 4 and Game Screen 4 until "Restart" is clicked
+again to go to Title Screen 4 again. If Progress Bar gets stuck at 0%
+for more than 10 minutes, restarting computer restarts it back again
+at 0%.
+
+### Game Over Screen
+
+The game shows the score and highscore table, which is empty. The
+player can click on the "Report" button to report a bug to the
+developer. And then the game restarts.
+
+The player clicks on the "Report" button.
+
+### Developer Screen
+
+The player communicates with the developer through chat window. The
+programmer is not talking back. The player can report bugs with the
+"Report" button, but it doesn't help. The game keeps crashing
+randomly.
+
+### Developer Screen 2
+
+The game crashes again. The player clicks on the "Report" button
+again. The programmer apologizes for the bug and asks if it can be
+used in the game. The programmer then turns the bug into an actual
+gameplay mechanic, that enables to get more points
